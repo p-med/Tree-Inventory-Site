@@ -1,0 +1,72 @@
+/*---GENERAL---*/
+* {
+  margin: 0;
+  box-sizing: border-box;
+  background-color: azure;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+/*---GRID LAYOUT---*/
+.grid-container {
+  display: grid;
+  grid-template-areas:
+    "nav nav nav nav nav nav"
+    "hero hero hero hero hero hero"
+    "profile-picture bio bio bio bio bio"
+    "experience-title experience-title experience-title experience-title experience-title experience-title"
+    "left left left right right right"
+    "footer-name footer-name footer-name footer-links footer-links footer-links";
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+.nav-container {
+  grid-area: nav;
+  grid-column: 1/ span 6;
+  width: 100%;
+  background-color: #0f3f27;
+}
+.hero-image {
+  grid-area: hero;
+  grid-column: 1/ span 6;
+  width: 100%;
+}
+/*---NAV BAR---*/
+.nav-container ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+.nav-container li {
+  float: left;
+}
+.nav-container li a {
+  display: block;
+  padding: 20px;
+  background-color: #0f3f27;
+  color: #fff;
+  text-decoration: none;
+}
+.nav-container li a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+.nav-container li a:hover:not(.active) {
+  background-color: #bcccc4;
+  color: rgb(0, 0, 0); 
+}
+/*---HERO---*/
+.hero-image {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://growitbuildit.com/wp-content/uploads/2023/05/Swamp-white-oak-tree.jpg");
+  position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.hero-text {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
