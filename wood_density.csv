@@ -1,0 +1,2042 @@
+,species,density
+0,Abies,0.36
+1,Abies alba,0.35
+2,Abies amabilis,0.4
+3,Abies balsamea,0.33
+4,Abies concolor,0.37
+5,Abies delavayi,0.4
+6,Abies fargesii,0.34
+7,Abies grandis,0.35
+8,Abies holophylla,0.34
+9,Abies lasiocarpa,0.31
+10,Abies magnifica,0.36
+11,Abies pinsapo,0.41
+12,Abies procera,0.37
+13,Acacia,0.75
+14,Acacia acradenia,0.9
+15,Acacia acuminata,0.95
+16,Acacia aneura,0.98
+17,Acacia aulacocarpa,0.66
+18,Acacia auriculiformis,0.68
+19,Acacia bakeri,0.77
+20,Acacia cambagei,1.08
+21,Acacia caven,0.77
+22,Acacia concurrens,0.76
+23,Acacia confusa,0.73
+24,Acacia craspedocarpa,0.89
+25,Acacia crassicarpa,0.6
+26,Acacia dealbata,0.59
+27,Acacia decurrens,0.56
+28,Acacia dictyophleba,0.76
+29,Acacia doratoxylon,0.79
+30,Acacia elata,0.51
+31,Acacia excelsa,0.94
+32,Acacia farnesiana,0.52
+33,Acacia grasbyi,0.98
+34,Acacia harpophylla,0.9
+35,Acacia hemignosta,0.65
+36,Acacia holosericea,0.75
+37,Acacia implexa,0.64
+38,Acacia irrorata,0.55
+39,Acacia jennerae,0.74
+40,Acacia longifolia,0.52
+41,Acacia maconochieana,0.8
+42,Acacia maidenii,0.62
+43,Acacia mangium,0.51
+44,Acacia mearnsii,0.66
+45,Acacia melanoxylon,0.55
+46,Acacia murrayana,0.52
+47,Acacia omalophylla,1.06
+48,Acacia oswaldii,0.98
+49,Acacia papyrocarpa,0.98
+50,Acacia pendula,0.99
+51,Acacia penninervis,0.64
+52,Acacia peuce,1.23
+53,Acacia podalyriifolia,0.68
+54,Acacia polyacantha,0.64
+55,Acacia polyphylla,0.64
+56,Acacia pruinocarpa,0.94
+57,Acacia pubescens,0.62
+58,Acacia salicina,0.53
+59,Acacia sclerosperma,0.86
+60,Acacia spectabilis,0.77
+61,Acacia stenophylla,0.76
+62,Acacia tetragonophylla,0.94
+63,Acacia trinervata,0.76
+64,Acacia victoriae,0.69
+65,Acacia visco,0.69
+66,Acca,0.75
+67,Acca sellowiana,0.75
+68,Acer,0.52
+69,Acer buergerianum,0.62
+70,Acer campestre,0.52
+71,Acer davidii,0.46
+72,Acer macrophyllum,0.44
+73,Acer mandshuricum,0.58
+74,Acer negundo,0.42
+75,Acer nigrum,0.52
+76,Acer oblongum,0.6
+77,Acer palmatum,0.45
+78,Acer pensylvanicum,0.44
+79,Acer pictum ssp. Mono,0.64
+80,Acer platanoides,0.52
+81,Acer pseudoplatanus,0.51
+82,Acer rubrum,0.49
+83,Acer saccharinum,0.44
+84,Acer saccharum,0.56
+85,Acer truncatum,0.59
+86,Acradenia,0.63
+87,Acradenia frankliniae,0.63
+88,Adansonia,0.28
+89,Adansonia digitata,0.28
+90,Adenanthera,0.7
+91,Adenanthera pavonina,0.7
+92,Adenostoma,0.75
+93,Adenostoma fasciculatum,0.75
+94,Aegiphila,0.86
+95,Aegiphila integrifolia,0.86
+96,Aegle,0.83
+97,Aegle marmelos,0.83
+98,Aesculus,0.47
+99,Aesculus chinensis,0.6
+100,Aesculus flava,0.35
+101,Aesculus hippocastanum,0.5
+102,Aesculus indica,0.46
+103,Aesculus turbinata,0.45
+104,Afrocarpus,0.5
+105,Afrocarpus gracilior,0.5
+106,Afrocarpus usambarensis,0.49
+107,Agathis,0.43
+108,Agathis australis,0.45
+109,Agathis macrophylla,0.45
+110,Agathis robusta,0.4
+111,Ailanthus,0.52
+112,Ailanthus altissima,0.52
+113,Albizia,0.52
+114,Albizia chinensis,0.3
+115,Albizia ferruginea,0.49
+116,Albizia lebbeck,0.6
+117,Albizia lebbekoides,0.57
+118,Albizia moluccana,0.32
+119,Albizia pedicellaris,0.52
+120,Albizia procera,0.47
+121,Albizia saponaria,0.57
+122,Alchornea,0.42
+123,Alchornea glandulosa,0.38
+124,Alchornea latifolia,0.42
+125,Alchornea triplinervia,0.47
+126,Alchorneopsis,0.45
+127,Alchorneopsis floribunda,0.45
+128,Aleurites,0.35
+129,Aleurites moluccanus,0.38
+130,Aleurites montanus,0.32
+131,Allocasuarina,0.76
+132,Allocasuarina fraseriana,0.62
+133,Allocasuarina littoralis,0.63
+134,Allocasuarina luehmannii,0.96
+135,Allocasuarina torulosa,0.82
+136,Allophylus,0.65
+137,Allophylus edulis,0.65
+138,Alloxylon,0.48
+139,Alloxylon flammeum,0.48
+140,Alnus,0.4
+141,Alnus acuminata,0.4
+142,Alnus glutinosa,0.42
+143,Alnus incana,0.44
+144,Alnus jorullensis,0.38
+145,Alnus nepalensis,0.41
+146,Alnus rubra,0.37
+147,Alphitonia,0.49
+148,Alphitonia excelsa,0.54
+149,Alphitonia petriei,0.44
+150,Alstonia,0.46
+151,Alstonia actinophylla,0.35
+152,Alstonia macrophylla,0.64
+153,Alstonia scholaris,0.38
+154,Alvaradoa,0.56
+155,Alvaradoa amorphoides,0.56
+156,Amaioua,0.63
+157,Amaioua guianensis,0.63
+158,Amelanchier,0.66
+159,Amelanchier canadensis,0.66
+160,Amherstia,0.66
+161,Amherstia nobilis,0.66
+162,Amyris,0.94
+163,Amyris balsamifera,0.9
+164,Amyris elemifera,0.97
+165,Anacardium,0.42
+166,Anacardium excelsum,0.39
+167,Anacardium occidentale,0.44
+168,Anadenanthera,0.91
+169,Anadenanthera colubrina,0.88
+170,Anadenanthera peregrina,0.93
+171,Andira,0.78
+172,Andira fraxinifolia,0.92
+173,Andira inermis,0.64
+174,Angophora,0.7
+175,Angophora bakeri,0.59
+176,Angophora costata,0.78
+177,Angophora floribunda,0.72
+178,Aniba,0.6
+179,Aniba firmula,0.56
+180,Annona,0.48
+181,Annona glabra,0.5
+182,Annona muricata,0.36
+183,Annona reticulata,0.55
+184,Annona squamosa,0.49
+185,Antidesma,0.63
+186,Antidesma bunius,0.63
+187,Aparisthmium,0.39
+188,Aparisthmium cordatum,0.39
+189,Apeiba,0.2
+190,Apeiba tibourbou,0.2
+191,Apuleia,0.77
+192,Apuleia leiocarpa,0.77
+193,Araucaria,0.45
+194,Araucaria angustifolia,0.47
+195,Araucaria araucana,0.52
+196,Araucaria bidwillii,0.42
+197,Araucaria cunninghamii,0.45
+198,Araucaria hunsteinii,0.39
+199,Arbutus,0.61
+200,Arbutus menziesii,0.57
+201,Arbutus unedo,0.65
+202,Archontophoenix,0.83
+203,Archontophoenix alexandrae,0.83
+204,Archontophoenix cunninghamiana,0.83
+205,Arctostaphylos,0.72
+206,Arctostaphylos tomentosa,0.72
+207,Ardisia,0.62
+208,Ardisia guianensis,0.62
+209,Ardisia solanacea,0.62
+210,Aristotelia,0.52
+211,Aristotelia serrata,0.52
+212,Artocarpus,0.51
+213,Artocarpus altilis,0.44
+214,Artocarpus heterophyllus,0.53
+215,Artocarpus odoratissimus,0.55
+216,Aspidosperma,0.78
+217,Aspidosperma parvifolium,0.78
+218,Astronium,0.85
+219,Astronium graveolens,0.85
+220,Atherosperma,0.5
+221,Atherosperma moschatum,0.5
+222,Athrotaxis,0.35
+223,Athrotaxis selaginoides,0.35
+224,Austrocedrus,0.43
+225,Austrocedrus chilensis,0.43
+226,Averrhoa,0.54
+227,Averrhoa bilimbi,0.5
+228,Averrhoa carambola,0.58
+229,Avicennia,0.65
+230,Avicennia germinans,0.78
+231,Avicennia marina,0.52
+232,Azadirachta,0.64
+233,Azadirachta indica,0.64
+234,Baccharis,0.59
+235,Baccharis pilularis,0.59
+236,Backhousia,0.86
+237,Backhousia citriodora,0.83
+238,Backhousia myrtifolia,0.88
+239,Banksia,0.52
+240,Banksia aemula,0.55
+241,Banksia integrifolia,0.48
+242,Banksia marginata,0.47
+243,Banksia serrata,0.57
+244,Barringtonia,0.46
+245,Barringtonia acutangula,0.52
+246,Barringtonia asiatica,0.42
+247,Barringtonia racemosa,0.45
+248,Bathysa,0.64
+249,Bathysa australis,0.64
+250,Bauhinia,0.71
+251,Bauhinia forficata,0.57
+252,Bauhinia forficata ssp. pruinosa,0.53
+253,Bauhinia hookeri,1.06
+254,Bauhinia purpurea,0.72
+255,Bauhinia variegata,0.65
+256,Beilschmiedia,0.52
+257,Beilschmiedia pendula,0.52
+258,Berberis,0.69
+259,Berberis vulgaris,0.69
+260,Betula,0.53
+261,Betula alleghaniensis,0.55
+262,Betula costata,0.6
+263,Betula lenta,0.6
+264,Betula neoalaskana,0.53
+265,Betula nigra,0.49
+266,Betula papyrifera,0.48
+267,Betula pendula,0.52
+268,Betula platyphylla,0.52
+269,Betula populifolia,0.45
+270,Betula pubescens,0.52
+271,Betula utilis,0.58
+272,Bicuiba,0.61
+273,Bicuiba oleifera,0.61
+274,Bischofia,0.6
+275,Bischofia javanica,0.6
+276,Bixa,0.36
+277,Bixa orellana,0.36
+278,Blepharocalyx,0.74
+279,Blepharocalyx salicifolius,0.74
+280,Blighia,0.75
+281,Blighia sapida,0.75
+282,Boehmeria,0.36
+283,Boehmeria caudata,0.36
+284,Bolusanthus,0.84
+285,Bolusanthus speciosus,0.84
+286,Bombax,0.31
+287,Bombax ceiba,0.31
+288,Brachychiton,0.39
+289,Brachychiton acerifolius,0.34
+290,Brachychiton discolor,0.25
+291,Brachychiton diversifolius,0.39
+292,Brachychiton gregorii,0.6
+293,Brachychiton populneus,0.39
+294,Brosimum,0.54
+295,Brosimum alicastrum,0.57
+296,Brosimum guianense,0.89
+297,Broussonetia,0.29
+298,Broussonetia papyrifera,0.29
+299,Bruguiera,0.76
+300,Bruguiera gymnorhiza,0.74
+301,Bruguiera parviflora,0.77
+302,Buchanania,0.45
+303,Buchanania arborescens,0.45
+304,Buchenavia,0.6
+305,Buchenavia tetraphylla,0.6
+306,Bucida,0.87
+307,Bucida buceras,0.87
+308,Buckinghamia,0.79
+309,Buckinghamia celsissima,0.79
+310,Buddleja,0.28
+311,Buddleja asiatica,0.28
+312,Bursera,0.34
+313,Bursera graveolens,0.32
+314,Bursera simaruba,0.35
+315,Butia,0.37
+316,Butia capitata,0.37
+317,Buxus,0.78
+318,Buxus sempervirens,0.78
+319,Byrsonima,0.75
+320,Byrsonima crassifolia,0.64
+321,Byrsonima crispa,0.58
+322,Byrsonima laevigata,0.62
+323,Byrsonima sericea,0.78
+324,Byrsonima spicata,0.62
+325,Cabralea,0.54
+326,Cabralea canjerana,0.54
+327,Caesalpinia,1.05
+328,Caesalpinia coriaria,1.12
+329,Caesalpinia echinata,0.89
+330,Caesalpinia ferrea,1.17
+331,Caesalpinia pulcherrima,0.84
+332,Caesalpinia sappan,0.84
+333,Callicoma,0.5
+334,Callicoma serratifolia,0.5
+335,Callistemon,0.78
+336,Callistemon citrinus,0.75
+337,Callistemon phoeniceus,0.85
+338,Callistemon salignus,0.84
+339,Callistemon viminalis,0.69
+340,Callitris,0.57
+341,Callitris endlicheri,0.58
+342,Callitris glaucophylla,0.61
+343,Callitris macleayana,0.5
+344,Callitris rhomboidea,0.47
+345,Callitris verrucosa,0.68
+346,Calocedrus,0.35
+347,Calocedrus decurrens,0.35
+348,Calodendrum,0.62
+349,Calodendrum capense,0.62
+350,Calophyllum,0.56
+351,Calophyllum antillanum,0.56
+352,Calophyllum inophyllum,0.57
+353,Calophyllum longifolium,0.54
+354,Calycophyllum,0.68
+355,Calycophyllum candidissimum,0.68
+356,Calyptranthes,0.77
+357,Calyptranthes concinna,0.77
+358,Camptotheca,0.43
+359,Camptotheca acuminata,0.43
+360,Cananga,0.33
+361,Cananga odorata,0.33
+362,Canarium,0.55
+363,Canarium australianum,0.53
+364,Canarium indicum,0.56
+365,Canella,0.9
+366,Canella winterana,0.9
+367,Capparidastrum,0.48
+368,Capparidastrum baducca,0.48
+369,Capparis,0.76
+370,Capparis mitchellii,0.76
+371,Carallia,0.67
+372,Carallia brachiata,0.67
+373,Carapa,0.53
+374,Carapa guianensis,0.53
+375,Cariniana,0.57
+376,Cariniana estrellensis,0.68
+377,Cariniana legalis,0.49
+378,Cariniana pyriformis,0.54
+379,Carpinus,0.64
+380,Carpinus betulus,0.69
+381,Carpinus caroliniana,0.58
+382,Carya,0.62
+383,Carya alba,0.64
+384,Carya aquatica,0.61
+385,Carya cordiformis,0.6
+386,Carya glabra,0.66
+387,Carya illinoinensis,0.6
+388,Carya laciniosa,0.62
+389,Carya myristiciformis,0.56
+390,Carya ovata,0.64
+391,Casearia,0.67
+392,Casearia aculeata,0.66
+393,Casearia arborea,0.57
+394,Casearia decandra,0.67
+395,Casearia guianensis,0.72
+396,Casearia nitida,0.67
+397,Casearia sylvestris,0.71
+398,Cassia,0.77
+399,Cassia ferruginea,0.87
+400,Cassia fistula,0.9
+401,Cassia javanica,0.62
+402,Cassia x nealiae,0.67
+403,Cassipourea,0.82
+404,Cassipourea guianensis,0.82
+405,Castanea,0.48
+406,Castanea dentata,0.4
+407,Castanea mollissima,0.57
+408,Castanea sativa,0.46
+409,Castanospermum,0.62
+410,Castanospermum australe,0.62
+411,Castilla,0.57
+412,Castilla elastica,0.57
+413,Casuarina,0.84
+414,Casuarina cristata,0.98
+415,Casuarina cunninghamiana,0.7
+416,Casuarina equisetifolia,0.77
+417,Casuarina glauca,0.77
+418,Casuarina pauper,0.97
+419,Catalpa,0.51
+420,Catalpa bignonioides,0.37
+421,Catalpa bungei,0.52
+422,Catalpa longissima,0.77
+423,Catalpa speciosa,0.38
+424,Ceanothus,0.69
+425,Ceanothus cuneatus,0.7
+426,Ceanothus oliganthus,0.67
+427,Cecropia,0.36
+428,Cecropia hololeuca,0.43
+429,Cecropia obtusifolia,0.31
+430,Cecropia pachystachya,0.41
+431,Cecropia schreberiana,0.3
+432,Cedrela,0.46
+433,Cedrela fissilis,0.49
+434,Cedrela montana,0.34
+435,Cedrela odorata,0.43
+436,Cedrus,0.44
+437,Cedrus atlantica,0.44
+438,Cedrus deodara,0.44
+439,Ceiba,0.3
+440,Ceiba erianthos,0.2
+441,Ceiba pentandra,0.31
+442,Ceiba speciosa,0.39
+443,Celtis,0.54
+444,Celtis australis,0.55
+445,Celtis iguanaea,0.66
+446,Celtis laevigata,0.48
+447,Celtis occidentalis,0.49
+448,Celtis paniculata,0.55
+449,Celtis sinensis,0.53
+450,Celtis tetrandra,0.52
+451,Centrolobium,0.75
+452,Centrolobium tomentosum,0.75
+453,Cephalotaxus,0.53
+454,Cephalotaxus fortunei,0.53
+455,Ceratonia,0.52
+456,Ceratonia siliqua,0.52
+457,Ceratopetalum,0.52
+458,Ceratopetalum apetalum,0.52
+459,Cercidiphyllum,0.43
+460,Cercidiphyllum japonicum,0.43
+461,Cercis,0.59
+462,Cercis canadensis,0.59
+463,Cercis siliquastrum,0.6
+464,Cercocarpus,0.8
+465,Cercocarpus montanus v. glaber,0.8
+466,Ceriops,0.84
+467,Ceriops tagal,0.84
+468,Cespedesia,0.61
+469,Cespedesia spathulata,0.61
+470,Chamaecyparis,0.42
+471,Chamaecyparis lawsoniana,0.4
+472,Chamaecyparis nootkatensis,0.42
+473,Chamaecyparis obtusa,0.49
+474,Chamaecyparis thyoides,0.38
+475,Chilopsis,0.6
+476,Chilopsis linearis,0.6
+477,Chionanthus,0.84
+478,Chionanthus domingensis,0.81
+479,Chionanthus ligustrinus,0.86
+480,Chorisia,0.29
+481,Chorisia speciosa,0.29
+482,Chrysobalanus,0.75
+483,Chrysobalanus icaco,0.75
+484,Chrysolepis,0.42
+485,Chrysolepis chrysophylla,0.42
+486,Chrysophyllum,0.74
+487,Chrysophyllum argenteum,0.78
+488,Chrysophyllum cainito,0.69
+489,Chrysophyllum marginatum,0.7
+490,Chrysophyllum oliviforme,0.77
+491,Cinchona,0.54
+492,Cinchona pubescens,0.54
+493,Cinnamomum,0.51
+494,Cinnamomum burmannii,0.49
+495,Cinnamomum camphora,0.51
+496,Cinnamomum cassia,0.54
+497,Cinnamomum elongatum,0.51
+498,Cinnamomum verum,0.5
+499,Citharexylum,0.74
+500,Citharexylum fruticosum,0.78
+501,Citharexylum spinosum,0.7
+502,Citrus,0.74
+503,Citrus medica,0.7
+504,Citrus sinensis,0.78
+505,Clarisia,0.57
+506,Clarisia racemosa,0.57
+507,Clethra,0.49
+508,Clethra scabra,0.49
+509,Cleyera,0.55
+510,Cleyera japonica,0.55
+511,Clusia,0.81
+512,Clusia clusioides,0.9
+513,Clusia gundlachii,0.9
+514,Clusia rosea,0.64
+515,Coccoloba,0.76
+516,Coccoloba acuminata,0.58
+517,Coccoloba diversifolia,0.8
+518,Coccoloba pubescens,1.0
+519,Coccoloba swartzii,0.7
+520,Coccoloba uvifera,0.7
+521,Cochlospermum,0.22
+522,Cochlospermum vitifolium,0.22
+523,Cocos,0.52
+524,Cocos nucifera,0.52
+525,Coffea,0.62
+526,Coffea arabica,0.62
+527,Cojoba,0.65
+528,Cojoba arborea,0.65
+529,Cola,0.51
+530,Cola acuminata,0.51
+531,Colubrina,0.75
+532,Colubrina arborescens,0.7
+533,Colubrina elliptica,0.8
+534,Colubrina glandulosa,0.74
+535,Commersonia,0.4
+536,Commersonia bartramia,0.4
+537,Conocarpus,0.85
+538,Conocarpus erectus,0.85
+539,Copaifera,0.55
+540,Copaifera officinalis,0.6
+541,Cordia,0.61
+542,Cordia alliodora,0.53
+543,Cordia americana,0.72
+544,Cordia borinquensis,0.7
+545,Cordia collococca,0.42
+546,Cordia dichotoma,0.45
+547,Cordia gerascanthus,0.75
+548,Cordia myxa,0.36
+549,Cordia sebestena,0.7
+550,Cordia subcordata,0.57
+551,Cordia sulcata,0.6
+552,Cordia trichotoma,0.6
+553,Cornus,0.61
+554,Cornus controversa,0.54
+555,Cornus florida,0.64
+556,Cornus nuttallii,0.58
+557,Cornus sanguinea,0.68
+558,Corylus,0.52
+559,Corylus avellana,0.52
+560,Corymbia,0.84
+561,Corymbia citriodora,0.82
+562,Corymbia confertiflora,0.78
+563,Corymbia ficifolia,0.79
+564,Corymbia gummifera,0.82
+565,Corymbia henryi,0.87
+566,Corymbia maculata,0.84
+567,Corymbia nesophila,0.85
+568,Corymbia polycarpa,0.87
+569,Corymbia terminalis,0.87
+570,Corymbia tessellaris,0.92
+571,Corymbia torelliana,0.76
+572,Corymbia trachyphloia,0.88
+573,Couratari,0.59
+574,Couratari asterotricha,0.51
+575,Couratari macrosperma,0.67
+576,Couroupita,0.44
+577,Couroupita guianensis,0.44
+578,Coutarea,0.6
+579,Coutarea hexandra,0.6
+580,Crataegus,0.52
+581,Crataegus calpodendron,0.62
+582,Crataegus laevigata,0.62
+583,Crataegus monogyna,0.7
+584,Crescentia,0.67
+585,Crescentia alata,0.71
+586,Crescentia cujete,0.62
+587,Croton,0.6
+588,Croton floribundus,0.6
+589,Croton poecilanthus,0.6
+590,Cryptocarya,0.6
+591,Cryptocarya aschersoniana,0.57
+592,Cryptocarya cunninghamii,0.67
+593,Cryptocarya glaucescens,0.55
+594,Cryptomeria,0.4
+595,Cryptomeria japonica,0.4
+596,Cunninghamia,0.32
+597,Cunninghamia lanceolata,0.32
+598,Cupania,0.63
+599,Cupania americana,0.57
+600,Cupania oblongifolia,0.67
+601,Cupania vernalis,0.66
+602,Cupaniopsis,0.68
+603,Cupaniopsis anacardioides,0.68
+604,Cupressus,0.44
+605,Cupressus funebris,0.47
+606,Cupressus lusitanica,0.44
+607,Cupressus macrocarpa,0.41
+608,Cupressus sempervirens,0.44
+609,Cupressus torulosa,0.44
+610,Cussonia,0.44
+611,Cussonia spicata,0.44
+612,Cybistax,0.59
+613,Cybistax antisyphilitica,0.59
+614,Cynometra,0.79
+615,Cynometra ramiflora,0.79
+616,Cynophalla,0.66
+617,Cynophalla amplissima,0.66
+618,Cyrilla,0.57
+619,Cyrilla racemiflora,0.57
+620,Dacryodes,0.5
+621,Dacryodes excelsa,0.5
+622,Dalbergia,0.79
+623,Dalbergia brasiliensis,0.91
+624,Dalbergia nigra,0.77
+625,Dalbergia sissoo,0.68
+626,Damburneya,0.48
+627,Damburneya coriacea,0.48
+628,Davidia,0.45
+629,Davidia involucrata,0.45
+630,Delonix,0.53
+631,Delonix regia,0.53
+632,Dendropanax,0.42
+633,Dendropanax arboreus,0.42
+634,Diatenopteryx,0.74
+635,Diatenopteryx sorbifolia,0.74
+636,Dichrostachys,0.99
+637,Dichrostachys cinerea,0.99
+638,Dillenia,0.57
+639,Dillenia alata,0.55
+640,Dillenia indica,0.7
+641,Dillenia suffruticosa,0.45
+642,Dimocarpus,0.7
+643,Dimocarpus longan,0.7
+644,Diospyros,0.76
+645,Diospyros blancoi,0.88
+646,Diospyros digyna,0.79
+647,Diospyros ebenum,0.74
+648,Diospyros inconstans,0.83
+649,Diospyros kaki,0.63
+650,Diospyros maritima,0.56
+651,Diospyros sandwicensis,0.94
+652,Diospyros virginiana,0.67
+653,Diphysa,0.98
+654,Diphysa thurberi,0.98
+655,Dipterocarpus,0.69
+656,Dipterocarpus caudatus,0.69
+657,Dirca,0.33
+658,Dirca occidentalis,0.33
+659,Dodonaea,0.95
+660,Dodonaea viscosa,0.95
+661,Dolichandrone,0.43
+662,Dolichandrone spathacea,0.43
+663,Doryphora,0.52
+664,Doryphora sassafras,0.52
+665,Dracaena,0.41
+666,Dracaena reflexa,0.41
+667,Drimys,0.4
+668,Drimys winteri,0.4
+669,Drypetes,0.75
+670,Drypetes lateriflora,0.75
+671,Durio,0.52
+672,Durio zibethinus,0.52
+673,Ecclinusa,0.96
+674,Ecclinusa ramiflora,0.96
+675,Ehretia,0.51
+676,Ehretia acuminata,0.5
+677,Ehretia thyrsiflora,0.52
+678,Elaeagnus,0.5
+679,Elaeagnus angustifolia,0.5
+680,Elaeocarpus,0.65
+681,Elaeocarpus eumundi,0.7
+682,Elaeocarpus obovatus,0.61
+683,Elaeocarpus reticulatus,0.63
+684,Elaeodendron,0.7
+685,Elaeodendron australe,0.73
+686,Elaeodendron orientale,0.68
+687,Embothrium,0.49
+688,Embothrium coccineum,0.49
+689,Endiandra,0.62
+690,Endiandra sieberi,0.62
+691,Endlicheria,0.63
+692,Endlicheria paniculata,0.63
+693,Endospermum,0.35
+694,Endospermum chinense,0.35
+695,Enterolobium,0.42
+696,Enterolobium contortisiliquum,0.4
+697,Enterolobium cyclocarpum,0.43
+698,Eriobotrya,0.74
+699,Eriobotrya deflexa,0.78
+700,Eriobotrya japonica,0.7
+701,Eriodictyon,0.54
+702,Eriodictyon californicum,0.54
+703,Eriotheca,0.43
+704,Eriotheca candolleana,0.43
+705,Eriotheca pentaphylla,0.43
+706,Erythrina,0.27
+707,Erythrina crista-galli,0.27
+708,Erythrina edulis,0.22
+709,Erythrina falcata,0.32
+710,Erythrina fusca,0.3
+711,Erythrina lysistemon,0.33
+712,Erythrina poeppigiana,0.31
+713,Erythrina subumbrans,0.23
+714,Erythrina variegata,0.28
+715,Erythrina vespertilio,0.16
+716,Erythrophleum,1.04
+717,Erythrophleum chlorostachys,1.04
+718,Erythroxylum,1.07
+719,Erythroxylum pulchrum,1.07
+720,Eucalyptus,0.79
+721,Eucalyptus accedens,0.9
+722,Eucalyptus acmenoides,0.87
+723,Eucalyptus agglomerata,0.6
+724,Eucalyptus albens,0.94
+725,Eucalyptus amplifolia,0.74
+726,Eucalyptus amygdalina,0.61
+727,Eucalyptus andrewsii,0.72
+728,Eucalyptus astringens,0.82
+729,Eucalyptus baileyana,0.8
+730,Eucalyptus bancroftii,0.76
+731,Eucalyptus baueriana,0.76
+732,Eucalyptus baxteri,0.67
+733,Eucalyptus blakelyi,0.82
+734,Eucalyptus blaxlandii,0.59
+735,Eucalyptus bosistoana,0.92
+736,Eucalyptus botryoides,0.72
+737,Eucalyptus bridgesiana,0.79
+738,Eucalyptus caleyi,0.94
+739,Eucalyptus calophylla,0.69
+740,Eucalyptus calycogona,0.93
+741,Eucalyptus camaldulensis,0.72
+742,Eucalyptus capitellata,0.7
+743,Eucalyptus carnea,0.84
+744,Eucalyptus cinerea,0.66
+745,Eucalyptus cladocalyx,0.86
+746,Eucalyptus cloeziana,0.84
+747,Eucalyptus conica,0.93
+748,Eucalyptus consideniana,0.76
+749,Eucalyptus coolabah,0.96
+750,Eucalyptus cornuta,0.91
+751,Eucalyptus crebra,0.94
+752,Eucalyptus cypellocarpa,0.65
+753,Eucalyptus dalrympleana,0.59
+754,Eucalyptus dealbata,0.83
+755,Eucalyptus deanei,0.64
+756,Eucalyptus decorticans,0.98
+757,Eucalyptus deglupta,0.45
+758,Eucalyptus delegatensis,0.56
+759,Eucalyptus diversicolor,0.75
+760,Eucalyptus dives,0.65
+761,Eucalyptus dunnii,0.66
+762,Eucalyptus elata,0.66
+763,Eucalyptus eremophila,0.92
+764,Eucalyptus erythrocorys,0.7
+765,Eucalyptus erythronema,0.89
+766,Eucalyptus eugenioides,0.78
+767,Eucalyptus exserta,0.87
+768,Eucalyptus fastigata,0.6
+769,Eucalyptus fibrosa,0.96
+770,Eucalyptus fraxinoides,0.5
+771,Eucalyptus globoidea,0.68
+772,Eucalyptus globulus,0.67
+773,Eucalyptus gomphocephala,0.87
+774,Eucalyptus goniocalyx,0.78
+775,Eucalyptus gracilis,0.92
+776,Eucalyptus grandis,0.66
+777,Eucalyptus haemastoma,0.71
+778,Eucalyptus intertexta,1.03
+779,Eucalyptus kingsmillii,0.88
+780,Eucalyptus largiflorens,0.94
+781,Eucalyptus leucoxylon,0.86
+782,Eucalyptus longifolia,0.88
+783,Eucalyptus macarthurii,0.64
+784,Eucalyptus macrorhyncha,0.71
+785,Eucalyptus major,0.91
+786,Eucalyptus mannifera,0.67
+787,Eucalyptus marginata,0.71
+788,Eucalyptus melanophloia,0.93
+789,Eucalyptus melliodora,0.91
+790,Eucalyptus microcarpa,0.91
+791,Eucalyptus microcorys,0.84
+792,Eucalyptus microtheca,0.98
+793,Eucalyptus miniata,0.9
+794,Eucalyptus moluccana,0.95
+795,Eucalyptus muelleriana,0.77
+796,Eucalyptus nitens,0.54
+797,Eucalyptus nova-anglica,0.69
+798,Eucalyptus obliqua,0.61
+799,Eucalyptus orbifolia,0.98
+800,Eucalyptus oreades,0.56
+801,Eucalyptus pachyphylla,0.92
+802,Eucalyptus paniculata,0.93
+803,Eucalyptus parramattensis,0.72
+804,Eucalyptus pellita,0.73
+805,Eucalyptus phoenicea,0.81
+806,Eucalyptus pilularis,0.76
+807,Eucalyptus piperita,0.68
+808,Eucalyptus planchoniana,0.79
+809,Eucalyptus polyanthemos,0.89
+810,Eucalyptus populnea,0.94
+811,Eucalyptus propinqua,0.89
+812,Eucalyptus punctata,0.91
+813,Eucalyptus quadrangulata,0.77
+814,Eucalyptus radiata,0.62
+815,Eucalyptus raveretiana,0.94
+816,Eucalyptus regnans,0.52
+817,Eucalyptus resinifera,0.82
+818,Eucalyptus robusta,0.51
+819,Eucalyptus rubida,0.59
+820,Eucalyptus rudis,0.52
+821,Eucalyptus saligna,0.74
+822,Eucalyptus salmonophloia,0.89
+823,Eucalyptus salubris,0.94
+824,Eucalyptus seeana,0.83
+825,Eucalyptus siderophloia,0.95
+826,Eucalyptus sideroxylon,0.93
+827,Eucalyptus sieberi,0.68
+828,Eucalyptus stricklandii,0.92
+829,Eucalyptus tereticornis,0.83
+830,Eucalyptus tetraptera,0.83
+831,Eucalyptus thozetiana,0.96
+832,Eucalyptus tindaliae,0.79
+833,Eucalyptus torquata,0.9
+834,Eucalyptus umbra,0.82
+835,Eucalyptus urophylla,0.48
+836,Eucalyptus viminalis,0.62
+837,Eucalyptus woodwardii,1.0
+838,Eucalyptus woollsiana,0.93
+839,Eucalyptus youmanii,0.97
+840,Eucryphia,0.61
+841,Eucryphia lucida,0.61
+842,Eugenia,0.77
+843,Eugenia axillaris,0.75
+844,Eugenia biflora,0.8
+845,Eugenia brasiliensis,0.71
+846,Eugenia confusa,0.81
+847,Eugenia florida,0.75
+848,Eugenia foetida,0.71
+849,Eugenia ligustrina,0.98
+850,Eugenia paniculata,0.62
+851,Eugenia pseudopsidium,0.82
+852,Eugenia stahlii,0.73
+853,Eugenia uniflora,0.83
+854,Euphorbia,0.46
+855,Euphorbia neriifolia,0.41
+856,Euphorbia tirucalli,0.51
+857,Eupomatia,0.54
+858,Eupomatia laurina,0.54
+859,Euroschinus,0.41
+860,Euroschinus falcata,0.41
+861,Eurya,0.62
+862,Eurya japonica,0.62
+863,Excoecaria,0.4
+864,Excoecaria agallocha,0.4
+865,Exocarpos,0.75
+866,Exocarpos aphyllus,0.85
+867,Exocarpos cupressiformis,0.65
+868,Exostema,1.0
+869,Exostema caribaeum,1.0
+870,Exothea,0.73
+871,Exothea paniculata,0.73
+872,Fagraea,0.83
+873,Fagraea berteroana,0.83
+874,Fagus,0.57
+875,Fagus crenata,0.55
+876,Fagus grandifolia,0.57
+877,Fagus sylvatica,0.58
+878,Faramea,0.58
+879,Faramea occidentalis,0.58
+880,Ficus,0.42
+881,Ficus altissima,0.47
+882,Ficus americana,0.4
+883,Ficus aurea,0.44
+884,Ficus benghalensis,0.49
+885,Ficus benjamina,0.46
+886,Ficus citrifolia,0.4
+887,Ficus coronata,0.4
+888,Ficus drupacea,0.21
+889,Ficus elastica,0.62
+890,Ficus fraseri,0.4
+891,Ficus insipida,0.36
+892,Ficus macrophylla,0.3
+893,Ficus obliqua,0.52
+894,Ficus platypoda,0.5
+895,Ficus racemosa,0.36
+896,Ficus religiosa,0.44
+897,Ficus septica,0.42
+898,Ficus sycomorus,0.42
+899,Ficus thonningii,0.47
+900,Ficus trigonata,0.43
+901,Ficus variegata,0.33
+902,Ficus virens,0.34
+903,Ficus watkinsiana,0.37
+904,Filicium,0.88
+905,Filicium decipiens,0.88
+906,Firmiana,0.44
+907,Firmiana simplex,0.44
+908,Fitzroya,0.43
+909,Fitzroya cupressoides,0.43
+910,Flacourtia,0.74
+911,Flacourtia indica,0.74
+912,Flacourtia inermis,0.72
+913,Flacourtia rukam,0.75
+914,Flindersia,0.67
+915,Flindersia australis,0.8
+916,Flindersia bennettiana,0.68
+917,Flindersia brayleyana,0.48
+918,Flindersia maculosa,0.83
+919,Flindersia schottiana,0.58
+920,Frangula,0.5
+921,Frangula alnus,0.5
+922,Frangula purshiana,0.5
+923,Fraxinus,0.53
+924,Fraxinus americana,0.55
+925,Fraxinus angustifolia,0.51
+926,Fraxinus chinensis,0.56
+927,Fraxinus excelsior,0.57
+928,Fraxinus griffithii,0.6
+929,Fraxinus holotricha,0.51
+930,Fraxinus latifolia,0.5
+931,Fraxinus mandshurica,0.55
+932,Fraxinus nigra,0.45
+933,Fraxinus pennsylvanica,0.53
+934,Fraxinus profunda,0.48
+935,Fraxinus quadrangulata,0.53
+936,Fraxinus uhdei,0.51
+937,Fraxinus velutina,0.51
+938,Gallesia,0.55
+939,Gallesia integrifolia,0.55
+940,Ganophyllum,0.71
+941,Ganophyllum falcatum,0.71
+942,Garcinia,0.76
+943,Garcinia dulcis,0.72
+944,Garcinia madruno,0.73
+945,Garcinia mangostana,0.81
+946,Garcinia myrtifolia,0.75
+947,Garcinia xanthochymus,0.78
+948,Geijera,0.77
+949,Geijera parviflora,0.77
+950,Genipa,0.75
+951,Genipa americana,0.63
+952,Ginkgo,0.49
+953,Ginkgo biloba,0.49
+954,Gleditsia,0.6
+955,Gleditsia triacanthos,0.6
+956,Gliricidia,0.58
+957,Gliricidia sepium,0.58
+958,Glycosmis,0.44
+959,Glycosmis parviflora,0.44
+960,Gmelina,0.41
+961,Gmelina arborea,0.34
+962,Gmelina leichardtii,0.47
+963,Gochnatia,0.76
+964,Gochnatia polymorpha,0.76
+965,Grevillea,0.72
+966,Grevillea baileyana,0.8
+967,Grevillea hilliana,0.84
+968,Grevillea nematophylla,0.66
+969,Grevillea robusta,0.52
+970,Grevillea striata,0.8
+971,Grewia,0.46
+972,Grewia crenata,0.46
+973,Griselinia,0.63
+974,Griselinia littoralis,0.63
+975,Guaiacum,1.18
+976,Guaiacum officinale,1.18
+977,Guapira,0.83
+978,Guapira opposita,0.83
+979,Guarea,0.52
+980,Guarea glabra,0.48
+981,Guarea guidonia,0.61
+982,Guarea kunthiana,0.62
+983,Guarea macrophylla,0.65
+984,Guatteria,0.36
+985,Guatteria blainii,0.8
+986,Guatteria caribaea,0.8
+987,Guatteria nigrescens,0.59
+988,Guazuma,0.59
+989,Guazuma crinita,0.64
+990,Guazuma ulmifolia,0.53
+991,Guettarda,0.69
+992,Guettarda elliptica,0.8
+993,Guettarda scabra,0.73
+994,Guettarda speciosa,0.59
+995,Guettarda valenzuelana,0.65
+996,Gymnanthes,1.1
+997,Gymnanthes lucida,1.1
+998,Gymnocladus,0.53
+999,Gymnocladus dioicus,0.53
+1000,Gyrocarpus,0.24
+1001,Gyrocarpus americanus,0.24
+1002,Haematoxylum,0.93
+1003,Haematoxylum brasiletto,0.92
+1004,Haematoxylum campechianum,0.93
+1005,Hakea,0.78
+1006,Hakea francisiana,0.68
+1007,Hakea leucoptera,0.81
+1008,Hakea lorea,0.85
+1009,Halesia,0.42
+1010,Halesia carolina,0.42
+1011,Hamamelis,0.56
+1012,Hamamelis virginiana,0.56
+1013,Harpullia,0.65
+1014,Harpullia arborea,0.54
+1015,Harpullia pendula,0.76
+1016,Heliocarpus,0.24
+1017,Heliocarpus popayanensis,0.24
+1018,Henriettea,0.74
+1019,Henriettea squamulosa,0.74
+1020,Heritiera,0.85
+1021,Heritiera littoralis,0.85
+1022,Hernandia,0.28
+1023,Hernandia sonora,0.28
+1024,Heteropanax,0.34
+1025,Heteropanax fragrans,0.34
+1026,Heterotrichum,0.6
+1027,Heterotrichum cymosum,0.6
+1028,Hevea,0.47
+1029,Hevea brasiliensis,0.47
+1030,Hibiscus,0.58
+1031,Hibiscus elatus,0.6
+1032,Hibiscus speciosissimus,0.7
+1033,Hibiscus tiliaceus,0.45
+1034,Hieronyma,0.64
+1035,Hieronyma alchorneoides,0.64
+1036,Hippomane,0.5
+1037,Hippomane mancinella,0.5
+1038,Hirtella,0.82
+1039,Hirtella rugosa,0.9
+1040,Hirtella triandra,0.73
+1041,Holodiscus,0.71
+1042,Holodiscus discolor,0.71
+1043,Homalium,0.79
+1044,Homalium racemosum,0.79
+1045,Hopea,0.64
+1046,Hopea odorata,0.64
+1047,Hovenia,0.54
+1048,Hovenia dulcis,0.54
+1049,Hura,0.37
+1050,Hura crepitans,0.37
+1051,Hymenaea,0.77
+1052,Hymenaea courbaril,0.77
+1053,Hymenosporum,0.61
+1054,Hymenosporum flavum,0.61
+1055,Ilex,0.62
+1056,Ilex aquifolium,0.65
+1057,Ilex chinensis,0.63
+1058,Ilex opaca,0.5
+1059,Ilex paraguariensis,0.57
+1060,Ilex sideroxyloides,0.77
+1061,Inga,0.58
+1062,Inga cylindrica,0.48
+1063,Inga edulis,0.63
+1064,Inga ingoides,0.5
+1065,Inga laurina,0.65
+1066,Inga marginata,0.58
+1067,Inga nobilis,0.56
+1068,Inga uraguensis,0.63
+1069,Inga vera,0.58
+1070,Inocarpus,0.5
+1071,Inocarpus fagifer,0.5
+1072,Intsia,0.71
+1073,Intsia bijuga,0.71
+1074,Ixora,0.96
+1075,Ixora pavetta,0.96
+1076,Jacaranda,0.49
+1077,Jacaranda micrantha,0.48
+1078,Jacaranda mimosifolia,0.49
+1079,Jagera,0.68
+1080,Jagera pseudorhus,0.68
+1081,Jatropha,0.17
+1082,Jatropha curcas,0.17
+1083,Joannesia,0.52
+1084,Joannesia princeps,0.52
+1085,Juglans,0.46
+1086,Juglans ailanthifolia,0.36
+1087,Juglans cinerea,0.36
+1088,Juglans mandshurica,0.44
+1089,Juglans microcarpa,0.53
+1090,Juglans nigra,0.51
+1091,Juglans regia,0.56
+1092,Juniperus,0.48
+1093,Juniperus chinensis,0.52
+1094,Juniperus communis,0.52
+1095,Juniperus deppeana,0.48
+1096,Juniperus virginiana,0.44
+1097,Juniperus virginiana v. silicicola,0.42
+1098,Kalmia,0.62
+1099,Kalmia latifolia,0.62
+1100,Kalopanax,0.39
+1101,Kalopanax septemlobus,0.39
+1102,Khaya,0.55
+1103,Khaya anthotheca,0.49
+1104,Khaya grandifoliola,0.53
+1105,Khaya senegalensis,0.63
+1106,Kigelia,0.56
+1107,Kigelia africana,0.56
+1108,Kleinhovia,0.43
+1109,Kleinhovia hospita,0.43
+1110,Koelreuteria,0.6
+1111,Koelreuteria bipinnata,0.57
+1112,Koelreuteria elegans,0.6
+1113,Koelreuteria paniculata,0.62
+1114,Krugiodendron,1.15
+1115,Krugiodendron ferreum,1.15
+1116,Kunzea,0.77
+1117,Kunzea ericoides,0.77
+1118,Laetia,0.65
+1119,Laetia procera,0.65
+1120,Lagarostrobos,0.46
+1121,Lagarostrobos franklinii,0.46
+1122,Lagerstroemia,0.57
+1123,Lagerstroemia indica,0.57
+1124,Lagerstroemia speciosa,0.61
+1125,Laguncularia,0.61
+1126,Laguncularia racemosa,0.61
+1127,Lansium,0.7
+1128,Lansium domesticum,0.7
+1129,Larix,0.45
+1130,Larix decidua,0.47
+1131,Larix kaempferi,0.41
+1132,Larix laricina,0.49
+1133,Larix leptolepis,0.45
+1134,Larix occidentalis,0.48
+1135,Larix potaninii,0.42
+1136,Lecythis,0.94
+1137,Lecythis lanceolata,1.01
+1138,Lecythis pisonis,0.86
+1139,Leptospermum,0.81
+1140,Leptospermum lanigerum,0.56
+1141,"Leptospermum polygalifolium ssp.
+polygalifolium",0.84
+1142,Leptospermum scoparium,1.03
+1143,Leucaena,0.61
+1144,Leucaena leucocephala,0.69
+1145,Leucaena pulverulenta,0.52
+1146,Licania,0.78
+1147,Licania kunthiana,0.88
+1148,Licania tomentosa,0.98
+1149,Licaria,0.82
+1150,Licaria parvifolia,0.8
+1151,Licaria triandra,0.9
+1152,Ligustrum,0.72
+1153,Ligustrum lucidum,0.63
+1154,Ligustrum vulgare,0.8
+1155,Liquidambar,0.48
+1156,Liquidambar formosana,0.49
+1157,Liquidambar styraciflua,0.46
+1158,Liriodendron,0.42
+1159,Liriodendron chinense,0.47
+1160,Liriodendron tulipifera,0.38
+1161,Litchi,0.85
+1162,Litchi chinensis,0.85
+1163,Lonchocarpus,0.69
+1164,Lonchocarpus heptaphyllus,0.69
+1165,Lonchocarpus muehlbergianus,0.66
+1166,Lophostemon,0.72
+1167,Lophostemon confertus,0.75
+1168,Lophostemon suaveolens,0.68
+1169,Loropetalum,0.81
+1170,Loropetalum chinense,0.81
+1171,Luehea,0.5
+1172,Luehea divaricata,0.56
+1173,Lumnitzera,0.69
+1174,Lumnitzera littorea,0.69
+1175,Lysidice,0.52
+1176,Lysidice rhodostegia,0.52
+1177,Lysiloma,0.71
+1178,Lysiloma bahamensis,0.6
+1179,Lysiloma latisiliquum,0.62
+1180,Lysiloma microphylla,0.92
+1181,Macadamia,0.9
+1182,Macadamia integrifolia,0.9
+1183,Macaranga,0.37
+1184,Macaranga mappa,0.27
+1185,Macaranga tanarius,0.46
+1186,Machaerium,0.7
+1187,Machaerium aculeatum,0.24
+1188,Machaerium incorruptibile,0.95
+1189,Machaerium isadelphum,0.66
+1190,Machaerium lunatum,0.24
+1191,Machaerium tipu,0.59
+1192,Machilus,0.47
+1193,Machilus thunbergii,0.47
+1194,Maclura,0.76
+1195,Maclura pomifera,0.76
+1196,Maclura tinctoria,0.75
+1197,Maesopsis,0.38
+1198,Maesopsis eminii,0.38
+1199,Magnolia,0.52
+1200,Magnolia acuminata,0.44
+1201,Magnolia denudata,0.44
+1202,Magnolia fraseri,0.4
+1203,Magnolia grandiflora,0.42
+1204,Magnolia ovata,0.52
+1205,Magnolia portoricensis,0.7
+1206,Magnolia splendens,0.59
+1207,Magnolia virginiana,0.42
+1208,Mallotus,0.6
+1209,Mallotus philippensis,0.6
+1210,Malouetia,0.58
+1211,Malouetia cestroides,0.58
+1212,Malus,0.61
+1213,Malus angustifolia,0.61
+1214,Malus baccata,0.56
+1215,Malus pumila,0.65
+1216,Mammea,0.63
+1217,Mammea americana,0.63
+1218,Mangifera,0.51
+1219,Mangifera indica,0.55
+1220,Mangifera odorata,0.47
+1221,Manilkara,0.84
+1222,Manilkara bidentata,0.87
+1223,Manilkara zapota,0.81
+1224,Maranthes,0.8
+1225,Maranthes corymbosa,0.8
+1226,Margaritaria,0.62
+1227,Margaritaria nobilis,0.62
+1228,Markhamia,0.47
+1229,Markhamia lutea,0.47
+1230,Matayba,0.76
+1231,Matayba domingensis,0.7
+1232,Matayba guianensis,0.82
+1233,Matisia,0.37
+1234,Matisia cordata,0.37
+1235,Maytenus,0.71
+1236,Maytenus boaria,0.62
+1237,Maytenus ilicifolia,0.72
+1238,Maytenus obtusifolia,0.75
+1239,Maytenus robusta,0.77
+1240,Melaleuca,0.73
+1241,Melaleuca argentea,0.87
+1242,Melaleuca bracteata,0.87
+1243,Melaleuca glomerata,0.67
+1244,Melaleuca linariifolia,0.68
+1245,Melaleuca quinquenervia,0.58
+1246,Melanococca,0.37
+1247,Melanococca tomentosa,0.37
+1248,Melanolepis,0.34
+1249,Melanolepis multiglandulosa,0.34
+1250,Melastoma,0.44
+1251,Melastoma malabathricum,0.44
+1252,Melia,0.44
+1253,Melia azedarach,0.44
+1254,Melicope,0.52
+1255,Melicope elleryana,0.52
+1256,Meliosma,0.42
+1257,Meliosma herbertii,0.42
+1258,Melochia,0.32
+1259,Melochia umbellata,0.32
+1260,Metasequoia,0.28
+1261,Metasequoia glyptostroboides,0.28
+1262,Metopium,0.51
+1263,Metopium toxiferum,0.51
+1264,Metrosideros,0.85
+1265,Metrosideros excelsa,1.15
+1266,Metrosideros polymorpha,0.76
+1267,Metrosideros robusta,0.65
+1268,Michelia,0.53
+1269,Michelia champaca,0.53
+1270,Miconia,0.64
+1271,Miconia calvescens,0.42
+1272,Miconia cinnamomifolia,0.73
+1273,Miconia mirabilis,0.6
+1274,Miconia prasina,0.7
+1275,Miconia splendens,0.69
+1276,Miconia tetrandra,0.7
+1277,Micropholis,0.65
+1278,Micropholis garciniifolia,0.64
+1279,Micropholis guyanensis,0.66
+1280,Mimosa,0.82
+1281,Mimosa arenosa,1.01
+1282,Mimosa artemisiana,0.91
+1283,Mimosa bimucronata,0.61
+1284,Mimosa pigra,0.73
+1285,Mimusops,0.85
+1286,Mimusops elengi,0.85
+1287,Morella,0.68
+1288,Morella faya,0.66
+1289,Morella rubra,0.7
+1290,Morinda,0.63
+1291,Morinda citrifolia,0.63
+1292,Moringa,0.26
+1293,Moringa oleifera,0.26
+1294,Morisonia,0.88
+1295,Morisonia americana,0.88
+1296,Morus,0.52
+1297,Morus alba,0.55
+1298,Morus nigra,0.52
+1299,Muntingia,0.3
+1300,Muntingia calabura,0.3
+1301,Murraya paniculata,0.87
+1302,Myoporum,0.88
+1303,Myoporum platycarpum,0.88
+1304,Myrcia,0.85
+1305,Myrcia deflexa,0.8
+1306,Myrcia fallax,0.82
+1307,Myrcia splendens,0.8
+1308,Myrcia tomentosa,0.96
+1309,Myrciaria,0.77
+1310,Myrciaria floribunda,0.77
+1311,Myristica,0.46
+1312,Myristica insipida,0.48
+1313,Myrocarpus,0.8
+1314,Myrocarpus frondosus,0.8
+1315,Myrospermum,0.83
+1316,Myrospermum frutescens,0.83
+1317,Myroxylon,0.81
+1318,Myroxylon balsamum,0.78
+1319,Myroxylon peruiferum,0.83
+1320,Myrsine,0.7
+1321,Myrsine australis,0.75
+1322,Myrsine coriacea,0.65
+1323,Nauclea,0.48
+1324,Nauclea orientalis,0.48
+1325,Nectandra,0.52
+1326,Nectandra hihua,0.42
+1327,Nectandra krugii,0.5
+1328,Nectandra rigida,0.59
+1329,Nectandra turbacensis,0.55
+1330,Nephelium,0.71
+1331,Nephelium lappaceum,0.71
+1332,Nerium,0.6
+1333,Nerium oleander,0.6
+1334,Neuburgia,0.34
+1335,Neuburgia celebica,0.34
+1336,Notelaea,0.87
+1337,Notelaea longifolia,0.87
+1338,Nothofagus,0.56
+1339,Nothofagus alpina,0.55
+1340,Nothofagus antarctica,0.52
+1341,Nothofagus cunninghamii,0.6
+1342,Nothofagus dombeyi,0.56
+1343,Nothofagus fusca,0.62
+1344,Nothofagus obliqua,0.56
+1345,Nothofagus pumilio,0.48
+1346,Notholithocarpus,0.58
+1347,Notholithocarpus densiflorus,0.58
+1348,Nyctanthes,0.88
+1349,Nyctanthes arbor-tristis,0.88
+1350,Nyssa,0.51
+1351,Nyssa aquatica,0.46
+1352,Nyssa sinensis,0.6
+1353,Nyssa sylvatica,0.46
+1354,Ochroma,0.15
+1355,Ochroma pyramidale,0.15
+1356,Ocotea,0.51
+1357,Ocotea floribunda,0.4
+1358,Ocotea leucoxylon,0.46
+1359,Ocotea moschata,0.6
+1360,Ocotea spathulata,0.62
+1361,Olea,0.76
+1362,Olea europaea,0.76
+1363,Ormosia,0.59
+1364,Ormosia arborea,0.7
+1365,Ormosia krugii,0.5
+1366,Osmanthus,0.84
+1367,Osmanthus fragrans,0.84
+1368,Ostrya,0.63
+1369,Ostrya virginiana,0.63
+1370,Oxandra,0.81
+1371,Oxandra lanceolata,0.81
+1372,Oxydendrum,0.5
+1373,Oxydendrum arboreum,0.5
+1374,Pachira,0.4
+1375,Pachira aquatica,0.38
+1376,Pachira insignis,0.39
+1377,Pachira quinata,0.42
+1378,Palaquium,0.52
+1379,Palaquium bataanense,0.52
+1380,Palicourea,0.55
+1381,Palicourea crocea,0.56
+1382,Palicourea guianensis,0.54
+1383,Pangium,0.5
+1384,Pangium edule,0.5
+1385,Parapiptadenia,1.07
+1386,Parapiptadenia rigida,1.07
+1387,Parinari,0.69
+1388,Parinari pachyphylla,0.69
+1389,Parkia,0.44
+1390,Parkia pendula,0.53
+1391,Parkia timoriana,0.34
+1392,Parkinsonia,0.61
+1393,Parkinsonia aculeata,0.61
+1394,Parkinsonia florida,0.62
+1395,Parkinsonia praecox,0.6
+1396,Paulownia,0.27
+1397,Paulownia fortunei,0.26
+1398,Paulownia tomentosa,0.28
+1399,Peltogyne,0.8
+1400,Peltogyne angustiflora,0.8
+1401,Peltophorum,0.65
+1402,Peltophorum dubium,0.74
+1403,Peltophorum pterocarpum,0.56
+1404,Pemphis,0.94
+1405,Pemphis acidula,0.94
+1406,Pentadesma,0.81
+1407,Pentadesma butyracea,0.81
+1408,Pera,0.67
+1409,Pera glabrata,0.67
+1410,Pericopsis,0.7
+1411,Pericopsis mooniana,0.7
+1412,Persea,0.52
+1413,Persea americana,0.55
+1414,Persea caerulea,0.42
+1415,Persea indica,0.43
+1416,Persea lingue,0.45
+1417,Persoonia,0.78
+1418,Persoonia falcata,0.78
+1419,Petalostigma,0.91
+1420,Petalostigma pubescens,0.91
+1421,Petitia,0.66
+1422,Petitia domingensis,0.66
+1423,Phellodendron,0.39
+1424,Phellodendron amurense,0.39
+1425,Phoenix,0.37
+1426,Phoenix canariensis,0.37
+1427,Phoenix dactylifera,0.37
+1428,Photinia,0.79
+1429,Photinia serratifolia,0.79
+1430,Phyllanthus,0.61
+1431,Phyllanthus acidus,0.6
+1432,Phyllanthus emblica,0.64
+1433,Phyllanthus ferdinandi,0.59
+1434,Phytolacca,0.26
+1435,Phytolacca dioica,0.26
+1436,Picea,0.37
+1437,Picea abies,0.37
+1438,Picea asperata,0.31
+1439,Picea brachytyla,0.44
+1440,Picea engelmannii,0.33
+1441,Picea glauca,0.33
+1442,Picea jezoensis,0.39
+1443,Picea koraiensis,0.36
+1444,Picea likiangensis,0.37
+1445,Picea mariana,0.38
+1446,Picea pungens,0.36
+1447,Picea rubens,0.37
+1448,Picea sitchensis,0.37
+1449,Picea smithiana,0.44
+1450,Pictetia,0.8
+1451,Pictetia aculeata,0.8
+1452,Pimenta,0.93
+1453,Pimenta dioica,0.96
+1454,Pimenta racemosa,0.9
+1455,Pinus,0.44
+1456,Pinus armandii,0.37
+1457,Pinus banksiana,0.4
+1458,Pinus brutia,0.43
+1459,Pinus bungeana,0.42
+1460,Pinus canariensis,0.61
+1461,Pinus caribaea,0.57
+1462,Pinus clausa,0.46
+1463,Pinus contorta,0.38
+1464,Pinus contorta v. bolanderi,0.38
+1465,Pinus densiflora,0.41
+1466,Pinus echinata,0.47
+1467,Pinus edulis,0.5
+1468,Pinus eldarica,0.54
+1469,Pinus elliottii,0.54
+1470,Pinus flexilis,0.37
+1471,Pinus glabra,0.41
+1472,Pinus halepensis,0.46
+1473,Pinus jeffreyi,0.37
+1474,Pinus kesiya,0.47
+1475,Pinus koraiensis,0.38
+1476,Pinus lambertiana,0.34
+1477,Pinus leiophylla,0.46
+1478,Pinus massoniana,0.48
+1479,Pinus merkusii,0.53
+1480,Pinus monticola,0.35
+1481,Pinus nigra,0.43
+1482,Pinus oocarpa,0.58
+1483,Pinus palustris,0.54
+1484,Pinus patula,0.45
+1485,Pinus pinaster,0.41
+1486,Pinus pinea,0.5
+1487,Pinus ponderosa,0.38
+1488,Pinus pungens,0.49
+1489,Pinus radiata,0.4
+1490,Pinus resinosa,0.41
+1491,Pinus rigida,0.47
+1492,Pinus roxburghii,0.33
+1493,Pinus serotina,0.51
+1494,Pinus strobus,0.34
+1495,Pinus sylvestris,0.42
+1496,Pinus tabulaeformis,0.36
+1497,Pinus taeda,0.47
+1498,Pinus thunbergiana,0.44
+1499,Pinus uncinata,0.41
+1500,Pinus virginiana,0.45
+1501,Pinus wallichiana,0.38
+1502,Pinus yunnanensis,0.5
+1503,Piptadenia,0.7
+1504,Piptadenia gonoacantha,0.7
+1505,Piscidia,0.8
+1506,Piscidia carthagenensis,0.8
+1507,Pisonia,0.39
+1508,Pisonia subcordata,0.5
+1509,Pisonia umbellifera,0.28
+1510,Pistacia,0.68
+1511,Pistacia chinensis,0.68
+1512,Pithecellobium,0.73
+1513,Pithecellobium dulce,0.73
+1514,Pittosporum,0.62
+1515,Pittosporum angustifolium,0.68
+1516,Pittosporum ferrugineum,0.51
+1517,Pittosporum pentandrum,0.54
+1518,Pittosporum undulatum,0.74
+1519,Pittosporum viridiflorum,0.63
+1520,Planchonella,0.86
+1521,Planchonella obovata,0.86
+1522,Platanus,0.48
+1523,Platanus occidentalis,0.45
+1524,Platanus orientalis,0.48
+1525,Platanus racemosa,0.48
+1526,Platanus x hybrida,0.53
+1527,Plathymenia,0.5
+1528,Plathymenia reticulata,0.5
+1529,Platycladus,0.52
+1530,Platycladus orientalis,0.52
+1531,Platycyamus,0.81
+1532,Platycyamus regnellii,0.81
+1533,Platymiscium,0.84
+1534,Platymiscium floribundum,0.89
+1535,Platymiscium pinnatum,0.72
+1536,Platypodium,0.81
+1537,Platypodium elegans,0.81
+1538,Pleroma,0.66
+1539,Pleroma mutabile,0.66
+1540,Plumeria,0.65
+1541,Plumeria alba,0.8
+1542,Plumeria rubra,0.5
+1543,Podocarpus,0.46
+1544,Podocarpus coriaceus,0.7
+1545,Podocarpus elatus,0.48
+1546,Podocarpus macrophyllus,0.47
+1547,Podocarpus nagi,0.44
+1548,Podocarpus totara,0.45
+1549,Polyalthia,0.58
+1550,Polyalthia australis,0.6
+1551,Polyalthia longifolia,0.56
+1552,Polyscias,0.41
+1553,Polyscias elegans,0.41
+1554,Pongamia,0.6
+1555,Pongamia indica,0.6
+1556,Populus,0.36
+1557,Populus alba,0.35
+1558,Populus angustifolia,0.35
+1559,Populus balsamifera,0.31
+1560,Populus balsamifera ssp. trichocarp,0.31
+1561,Populus davidiana,0.4
+1562,Populus deltoides,0.39
+1563,Populus deltoides ssp. monilifera,0.37
+1564,Populus fremontii,0.41
+1565,Populus grandidentata,0.36
+1566,Populus koreana,0.33
+1567,Populus lasiocarpa,0.41
+1568,Populus maximowiczii,0.31
+1569,Populus nigra,0.35
+1570,Populus simonii,0.32
+1571,Populus tomentosa,0.45
+1572,Populus tremula,0.37
+1573,Populus tremuloides,0.35
+1574,Populus x canadensis,0.35
+1575,Populus yunnanensis,0.34
+1576,Posoqueria,0.64
+1577,Posoqueria acutifolia,0.7
+1578,Posoqueria latifolia,0.57
+1579,Pouteria,0.67
+1580,Pouteria caimito,0.82
+1581,Pouteria campechiana,0.79
+1582,Pouteria multiflora,0.75
+1583,Pouteria obovata,0.72
+1584,Pouteria sapota,0.86
+1585,Pouteria torta,0.77
+1586,Prockia,0.58
+1587,Prockia crucis,0.58
+1588,Prosopis,0.75
+1589,Prosopis alba,0.67
+1590,Prosopis alpataco,0.67
+1591,Prosopis caldenia,0.58
+1592,Prosopis chilensis,0.74
+1593,Prosopis cineraria,0.66
+1594,Prosopis glandulosa,0.71
+1595,Prosopis juliflora,0.78
+1596,Prosopis kuntzei,1.01
+1597,Prosopis pallida,0.88
+1598,Prosopis ruscifolia,0.79
+1599,Prosopis velutina,0.79
+1600,Protium,0.62
+1601,Protium heptaphyllum,0.62
+1602,Prunus,0.56
+1603,Prunus armeniaca,0.68
+1604,Prunus avium,0.47
+1605,Prunus caroliniana,0.56
+1606,Prunus cerasifera,0.47
+1607,Prunus ilicifolia,0.73
+1608,Prunus lusitanica,0.61
+1609,Prunus myrtifolia,0.74
+1610,Prunus occidentalis,0.97
+1611,Prunus padus,0.46
+1612,Prunus pensylvanica,0.36
+1613,Prunus serotina,0.47
+1614,Prunus serrula,0.92
+1615,Prunus serrulata,0.56
+1616,Prunus x yedoensis,0.47
+1617,Pseudobombax,0.31
+1618,Pseudobombax ellipticum,0.34
+1619,Pseudobombax grandiflorum,0.39
+1620,Pseudobombax septenatum,0.21
+1621,Pseudolarix,0.42
+1622,Pseudolarix amabilis,0.42
+1623,Pseudolmedia,0.75
+1624,Pseudolmedia spuria,0.75
+1625,Pseudotsuga,0.44
+1626,Pseudotsuga menziesii,0.44
+1627,Psidium,0.93
+1628,Psidium cattleianum,1.12
+1629,Psidium guajava,0.74
+1630,Pterocarpus,0.44
+1631,Pterocarpus indicus,0.64
+1632,Pterocarpus macrocarpus,0.7
+1633,Pterocarpus marsupium,0.62
+1634,Pterocarpus officinalis,0.38
+1635,Pterocarpus rohrii,0.46
+1636,Pterocarya,0.35
+1637,Pterocarya stenoptera,0.35
+1638,Punica,0.77
+1639,Punica granatum,0.77
+1640,Putranjiva,0.67
+1641,Putranjiva roxburghii,0.67
+1642,Pyrus,0.6
+1643,Pyrus calleryana,0.6
+1644,Pyrus communis,0.63
+1645,Pyrus kawakamii,0.6
+1646,Quadrella,0.68
+1647,Quadrella indica,0.68
+1648,Quassia,0.4
+1649,Quassia amara,0.47
+1650,Quassia indica,0.33
+1651,Quercus,0.7
+1652,Quercus acutissima,0.73
+1653,Quercus agrifolia,0.59
+1654,Quercus alba,0.62
+1655,Quercus aliena,0.69
+1656,Quercus austrina,0.75
+1657,Quercus bicolor,0.66
+1658,Quercus cerris,0.7
+1659,Quercus chapmanii,0.78
+1660,Quercus coccinea,0.62
+1661,Quercus falcata,0.58
+1662,Quercus gambelii,0.62
+1663,Quercus garryana,0.64
+1664,Quercus ilex,0.82
+1665,Quercus incana,0.71
+1666,Quercus kelloggii,0.51
+1667,Quercus laceyi,0.8
+1668,Quercus laevis,0.64
+1669,Quercus laurifolia,0.63
+1670,Quercus lobata,0.55
+1671,Quercus lyrata,0.57
+1672,Quercus macrocarpa,0.58
+1673,Quercus margarettae,0.76
+1674,Quercus michauxii,0.65
+1675,Quercus minima,0.89
+1676,Quercus mongolica,0.64
+1677,Quercus myrtifolia,0.81
+1678,Quercus nigra,0.6
+1679,Quercus palustris,0.58
+1680,Quercus petraea,0.57
+1681,Quercus phellos,0.56
+1682,Quercus pumila,0.71
+1683,Quercus pyrenaica,0.84
+1684,Quercus robur,0.57
+1685,Quercus rubra,0.56
+1686,Quercus serrata ssp. serrata,0.7
+1687,Quercus shumardii,0.62
+1688,Quercus stellata,0.66
+1689,Quercus variabilis,0.76
+1690,Quercus velutina,0.56
+1691,Quercus virginiana,0.8
+1692,Quercus x ganderi,0.64
+1693,Radermachera,0.63
+1694,Radermachera sinica,0.63
+1695,Randia,0.67
+1696,Randia armata,0.67
+1697,Rapanea,0.86
+1698,Rapanea umbellata,0.86
+1699,Ravenia,0.9
+1700,Ravenia urbanii,0.9
+1701,Reutealis,0.43
+1702,Reutealis trisperma,0.43
+1703,Rhamnus,0.64
+1704,Rhamnus cathartica,0.61
+1705,Rhamnus crocea,0.75
+1706,Rhamnus davurica,0.55
+1707,Rhizophora,0.85
+1708,Rhizophora apiculata,0.84
+1709,Rhizophora mangle,0.91
+1710,Rhizophora mucronata,0.81
+1711,Rhodamnia,0.64
+1712,Rhodamnia rubescens,0.64
+1713,Rhododendron,0.5
+1714,Rhododendron arboreum,0.49
+1715,Rhododendron maximum,0.5
+1716,Rhus,0.45
+1717,Rhus typhina,0.45
+1718,Ribes,0.73
+1719,Ribes californicum,0.73
+1720,Robinia,0.67
+1721,Robinia pseudoacacia,0.67
+1722,Rollinia,0.36
+1723,Rollinia mucosa,0.32
+1724,Roseodendron,0.43
+1725,Roseodendron donnell-smithii,0.43
+1726,Roupala,0.85
+1727,Roupala montana,0.78
+1728,Roupala montana v. brasiliensis,0.91
+1729,Ruprechtia,0.66
+1730,Ruprechtia apetala,0.66
+1731,Sabal,0.52
+1732,Sabal palmetto,0.52
+1733,Salix,0.39
+1734,Salix alba,0.28
+1735,Salix babylonica v. matsudana,0.47
+1736,Salix caprea,0.4
+1737,Salix fragilis,0.36
+1738,Salix humboldtiana,0.41
+1739,Salix lucida ssp. lasiandra,0.39
+1740,Salix nigra,0.36
+1741,Salix purpurea,0.46
+1742,Salix x sepulcralis,0.42
+1743,Samanea,0.51
+1744,Samanea saman,0.51
+1745,Sambucus,0.45
+1746,Sambucus canadensis,0.45
+1747,Sandoricum,0.47
+1748,Sandoricum koetjape,0.47
+1749,Santalum,0.69
+1750,Santalum acuminatum,0.68
+1751,Santalum lanceolatum,0.78
+1752,Santalum murrayanum,0.62
+1753,Sapindus,0.7
+1754,Sapindus mukorossi,0.7
+1755,Sapindus saponaria,0.69
+1756,Sapium,0.72
+1757,Sapium caribaeum,0.42
+1758,Sapium glandulosum,0.44
+1759,Sapium laurifolium,0.45
+1760,Sapium laurocerasus,0.38
+1761,Sarcomelicope,0.76
+1762,Sarcomelicope simplicifolia,0.76
+1763,Sassafras,0.48
+1764,Sassafras albidum,0.48
+1765,Saxegothaea,0.52
+1766,Saxegothaea conspicua,0.52
+1767,Schefflera,0.41
+1768,Schefflera actinophylla,0.41
+1769,Schima,0.54
+1770,Schima superba,0.54
+1771,Schinus,0.62
+1772,Schinus molle,0.59
+1773,Schinus terebinthifolia,0.65
+1774,Schizolobium,0.36
+1775,Schizolobium parahyba,0.41
+1776,Schizolobium parahybum,0.3
+1777,Schizomeria,0.54
+1778,Schizomeria ovata,0.54
+1779,Schleichera,0.9
+1780,Schleichera oleosa,0.9
+1781,Scolopia,0.83
+1782,Scolopia saeva,0.83
+1783,Scyphiphora,0.69
+1784,Scyphiphora hydrophylacea,0.69
+1785,Searsia,0.69
+1786,Searsia lancea,0.69
+1787,Sebastiania,0.63
+1788,Sebastiania commersoniana,0.63
+1789,Senegalia,0.95
+1790,Senegalia mellifera,0.95
+1791,Senna,0.59
+1792,Senna atomaria,0.8
+1793,Senna multijuga,0.47
+1794,Senna racemosa,0.54
+1795,Senna siamea,0.65
+1796,Senna spectabilis,0.48
+1797,Sequoia,0.37
+1798,Sequoia sempervirens,0.37
+1799,Sesbania,0.42
+1800,Sesbania grandiflora,0.41
+1801,Sesbania sesban,0.43
+1802,Sideroxylon,0.89
+1803,Sideroxylon foetidissimum,0.9
+1804,Sideroxylon portoricense,0.92
+1805,Sideroxylon salicifolium,0.85
+1806,Simaba,0.47
+1807,Simaba cedron,0.47
+1808,Simarouba,0.85
+1809,Simarouba tulae,0.85
+1810,Sloanea,0.83
+1811,Sloanea berteriana,0.8
+1812,Sloanea guianensis,0.82
+1813,Sloanea monosperma,0.88
+1814,Solanum,0.54
+1815,Solanum aphyodendron,0.55
+1816,Solanum pseudoquina,0.53
+1817,Sonneratia,0.51
+1818,Sonneratia alba,0.51
+1819,Sophora,0.64
+1820,Sophora japonica,0.64
+1821,Sorbus,0.63
+1822,Sorbus aria,0.64
+1823,Sorbus aucuparia,0.63
+1824,Sorbus torminalis,0.61
+1825,Sorocea,0.61
+1826,Sorocea bonplandii,0.61
+1827,Sparattosperma,0.57
+1828,Sparattosperma leucanthum,0.57
+1829,Spathodea,0.22
+1830,Spathodea campanulata,0.22
+1831,Spondias,0.33
+1832,Spondias dulcis,0.3
+1833,Spondias mombin,0.39
+1834,Spondias pinnata,0.29
+1835,Spondias purpurea,0.33
+1836,Staphylea,0.34
+1837,Staphylea occidentalis,0.34
+1838,Stenocarpus,0.67
+1839,Stenocarpus salignus,0.68
+1840,Stenocarpus sinuatus,0.65
+1841,Stenostomum,0.8
+1842,Stenostomum resinosum,0.8
+1843,Sterculia,0.55
+1844,Sterculia apetala,0.38
+1845,Sterculia foetida,0.45
+1846,Sterculia quadrifida,0.32
+1847,Stifftia,0.62
+1848,Stifftia parviflora,0.62
+1849,Strychnos,0.65
+1850,Strychnos spinosa,0.65
+1851,Stylogyne,0.69
+1852,Swartzia,0.9
+1853,Swartzia myrtifolia,0.9
+1854,Sweetia,0.9
+1855,Sweetia fruticosa,0.9
+1856,Swietenia,0.64
+1857,Swietenia macrophylla,0.53
+1858,Swietenia mahogani,0.75
+1859,Syagrus,0.37
+1860,Syagrus romanzoffiana,0.37
+1861,Symplocos,0.8
+1862,Symplocos martinicensis,0.8
+1863,Syncarpia,0.77
+1864,Syncarpia glomerulifera,0.77
+1865,Syzygium,0.67
+1866,Syzygium angophoroides,0.8
+1867,Syzygium australe,0.63
+1868,Syzygium crebrinerve,0.63
+1869,Syzygium cumini,0.56
+1870,Syzygium forte,0.62
+1871,Syzygium francisii,0.61
+1872,Syzygium grande,0.71
+1873,Syzygium jambos,0.7
+1874,Syzygium luehmannii,0.64
+1875,Syzygium malaccense,0.56
+1876,Syzygium oleosum,0.88
+1877,Syzygium smithii,0.64
+1878,Tabebuia,0.57
+1879,Tabebuia angustata,0.89
+1880,Tabebuia aurea,0.64
+1881,Tabebuia avellanedae,0.81
+1882,Tabebuia billbergii,0.92
+1883,Tabebuia cassinoides,0.39
+1884,Tabebuia chrysantha,1.0
+1885,Tabebuia heterophylla,0.55
+1886,Tabebuia impetiginosa,0.92
+1887,Tabebuia rosea,0.55
+1888,Tabebuia schumanniana,0.9
+1889,Tabebuia serratifolia,0.92
+1890,Tabernaemontana,0.75
+1891,Tabernaemontana divaricata,0.75
+1892,Tachigali,0.52
+1893,Tachigali multijuga,0.52
+1894,Tamarindus,0.98
+1895,Tamarindus indica,0.98
+1896,Tamarix,0.59
+1897,Tamarix aphylla,0.59
+1898,Tapirira,0.45
+1899,Tapirira guianensis,0.45
+1900,Taxodium,0.42
+1901,Taxodium distichum,0.42
+1902,Taxus,0.54
+1903,Taxus baccata,0.55
+1904,Taxus brevifolia,0.6
+1905,Taxus cuspidata,0.47
+1906,Tecoma,0.47
+1907,Tecoma stans,0.47
+1908,Tectona,0.6
+1909,Tectona grandis,0.6
+1910,Terminalia,0.53
+1911,Terminalia ivorensis,0.44
+1912,Terminalia kaernbachii,0.49
+1913,Terminalia microcarpa,0.52
+1914,Terminalia oblonga,0.76
+1915,Terminalia superba,0.46
+1916,Tetragastris,0.71
+1917,Tetragastris balsamifera,0.67
+1918,Theobroma,0.42
+1919,Theobroma cacao,0.42
+1920,Thespesia,0.43
+1921,Thespesia lampus,0.38
+1922,Thespesia populnea,0.47
+1923,Thouinia,0.9
+1924,Thouinia striata,0.9
+1925,Thuja,0.3
+1926,Thuja occidentalis,0.29
+1927,Thuja plicata,0.31
+1928,Tilia,0.39
+1929,Tilia americana,0.32
+1930,Tilia amurensis,0.39
+1931,Tilia cordata,0.42
+1932,Tilia platyphyllos,0.42
+1933,Tilia tomentosa,0.32
+1934,Tilia x vulgaris,0.48
+1935,Timonius,0.55
+1936,Timonius timon,0.55
+1937,Tipuana,0.6
+1938,Tipuana tipu,0.6
+1939,Toona,0.38
+1940,Toona ciliata,0.38
+1941,Torreya,0.42
+1942,Torreya grandis,0.42
+1943,Trattinnickia,0.45
+1944,Trattinnickia lawrancei,0.45
+1945,Trema,0.4
+1946,Trema micrantha,0.35
+1947,Trema micranthum,0.5
+1948,Trema orientalis,0.34
+1949,Triadica,0.5
+1950,Triadica sebifera,0.5
+1951,Trichanthera,0.45
+1952,Trichanthera gigantea,0.45
+1953,Trichilia,0.65
+1954,Trichilia catigua,0.69
+1955,Trichilia hirta,0.55
+1956,Trichilia pallida,0.7
+1957,Trichospermum,0.32
+1958,Trichospermum richii,0.32
+1959,Triplaris,0.51
+1960,Triplaris americana,0.49
+1961,Triplaris cumingiana,0.52
+1962,Tristaniopsis,0.78
+1963,Tristaniopsis conferta,0.75
+1964,Tristaniopsis laurina,0.81
+1965,Trophis,0.66
+1966,Trophis racemosa,0.66
+1967,Tsuga,0.41
+1968,Tsuga canadensis,0.38
+1969,Tsuga heterophylla,0.42
+1970,Tsuga mertensiana,0.42
+1971,Ulmus,0.55
+1972,Ulmus alata,0.6
+1973,Ulmus americana,0.46
+1974,Ulmus crassifolia,0.59
+1975,Ulmus davidiana,0.47
+1976,Ulmus glabra,0.55
+1977,Ulmus laciniata,0.46
+1978,Ulmus parvifolia,0.75
+1979,Ulmus procera,0.55
+1980,Ulmus pumila,0.54
+1981,Ulmus rubra,0.48
+1982,Ulmus thomasii,0.57
+1983,Umbellularia,0.51
+1984,Umbellularia californica,0.51
+1985,Urera,0.28
+1986,Urera baccifera,0.17
+1987,Urera caracasana,0.38
+1988,Vachellia,0.8
+1989,Vachellia macracantha,0.73
+1990,Vachellia nilotica,0.86
+1991,Veitchia,0.37
+1992,Veitchia merrillii,0.37
+1993,Ventilago,0.98
+1994,Ventilago viminalis,0.98
+1995,Viburnum,0.72
+1996,Viburnum lantana,0.72
+1997,Virola,0.48
+1998,Vitex,0.57
+1999,Vitex cymosa,0.56
+2000,Vitex divaricata,0.62
+2001,Vitex glabrata,0.58
+2002,Vitex negundo,0.67
+2003,Volkameria,0.61
+2004,Volkameria glabrum,0.61
+2005,Washingtonia,0.37
+2006,Washingtonia filifera,0.37
+2007,Washingtonia robusta,0.37
+2008,Wollemia,0.47
+2009,Wollemia nobilis,0.47
+2010,Xanthostemon,0.88
+2011,Xanthostemon chrysanthus,0.88
+2012,Ximenia,0.83
+2013,Ximenia americana,0.83
+2014,Xylocarpus,0.59
+2015,Xylocarpus granatum,0.57
+2016,Xylocarpus moluccensis,0.61
+2017,Xylomelum,0.57
+2018,Xylomelum pyriforme,0.57
+2019,Xylopia,0.7
+2020,Xylopia brasiliensis,0.7
+2021,Zanthoxylum,0.65
+2022,Zanthoxylum caribaeum,0.76
+2023,Zanthoxylum fagara,0.65
+2024,Zanthoxylum flavum,0.78
+2025,Zanthoxylum martinicense,0.57
+2026,Zanthoxylum rhoifolium,0.5
+2027,Zelkova,0.66
+2028,Zelkova formosana,0.8
+2029,Zelkova schneideriana,0.67
+2030,Zelkova serrata,0.52
+2031,Zeyheria,0.77
+2032,Zeyheria tuberculosa,0.77
+2033,Ziziphus,0.71
+2034,Ziziphus jujuba,0.8
+2035,Ziziphus mauritiana,0.62
+2036,Zollernia,1.05
+2037,Zollernia ilicifolia,1.05
+2038,Zygia,0.71
+2039,Zygia longifolia,0.71

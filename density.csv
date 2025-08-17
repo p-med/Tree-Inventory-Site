@@ -1,0 +1,101 @@
+tree_id,common_name,species,type,growth,density
+00012A,Ailanthus,"Ailanthus, Ailanthus altissima",H,F,0.52
+00023E,European Alder,"Alder, European, Alnus glutinosa",H,F,0.42
+00034G,Green Ash,"Ash, green, Fraxinus pennsylvanica",H,F,0.53
+00045A,American Mountain Ash,"Ash, mountain, American,Sorbus americana",H,M,0.63
+00056W,White Ash,"Ash, white, Fraxinus americana",H,F,0.55
+00067B,Bigtooth Aspen,"Aspen, bigtooth, Populus grandidentata",H,M,0.36
+00078Q,Quaking Aspen,"Aspen, quaking, Populus tremuloides ",H,F,0.35
+00089B,Baldcypress,"Baldcypress, Taxodium distichum ",C,F,0.42
+00910A,American Basswood,"Basswood, American, Tilia americana",H,F,0.32
+01011A,American Beech,"Beech, American, Fagus grandifolia",H,S,0.57
+01112P,Paper (White) Birch,"Birch, paper (white), Betula papyrifera ",H,M,0.48
+01213R,River Birch,"Birch, river, Betula nigra ",H,M,0.49
+01314Y,Yellow Birch,"Birch, yellow, Betula alleghaniensis ",H,S,0.55
+01415B,Boxelder,"Boxelder, Acer negundo ",H,F,0.42
+01516O,Ohio Buckeye,"Buckeye, Ohio, Aesculus glabra ",H,S,0.47
+01617N,Northern Catalpa,"Catalpa, northern, Catalpa speciosa ",H,F,0.38
+01718E,Eastern Red Cedar,"Cedar-red, eastern, Juniperus virginiana ",C,M,0.44
+01819N,Northern White Cedar,"Cedar-white, northern, Thuja occidentalis ",C,M,0.29
+01920B,Black Cherry,"Cherry, black, Prunus serotina ",H,F,0.47
+02021P,Pin Cherry,"Cherry, pin, Prunus pennsylvanica ",H,M,0.36
+02122E,Eastern Cottonwood,"Cottonwood, eastern, Populus deltoides ",H,M,0.39
+02223C,Crabapple,"Crabapple, Malus spp. ",H,M,0.61
+02324C,Cucumbertree,"Cucumbertree, Magnolia acuminata ",H,F,0.44
+02425F,Flowering Dogwood,"Dogwood, flowering, Cornus florida ",H,S,0.64
+02526A,American Elm,"Elm, American, Ulmus americana ",H,F,0.46
+02627C,Chinese Elm,"Elm, Chinese, Ulmus parvifolia ",H,M,0.75
+02728R,Rock Elm,"Elm, rock, Ulmus thomasii ",H,S,0.57
+02829S,September Elm,"Elm, September, Ulmus serotina ",H,F,0.55
+02930S,Siberian Elm,"Elm, Siberian, Ulmus pumila ",H,F,0.54
+03031S,Slippery Elm,"Elm, slippery, Ulmus rubra",H,M,0.48
+03132B,Balsam Fir,"Fir, balsam, Abies balsamea ",C,S,0.33
+03233D,Douglas Fir,"Fir, Douglas, Pseudotsuga menziesii",C,F,0.44
+03334G,Ginkgo,"Ginkgo, Ginkgo biloba",H,S,0.49
+03435H,Hackberry,"Hackberry, Celtis occidentalis",H,F,0.49
+03536H,Hawthorne,"Hawthorne, Crataegus spp.",H,M,0.5
+03637E,Eastern Hemlock,"Hemlock, eastern, Tsuga canadensis ",C,M,0.38
+03738B,Bitternut Hickory,"Hickory, bitternut, Carya cordiformis ",H,S,0.6
+03839M,Mockernut Hickory,"Hickory, mockernut, Carya tomentosa ",H,M,0.62
+03940S,Shagbark Hickory,"Hickory, shagbark, Carya ovata ",H,S,0.64
+04041S,Shellbark Hickory,"Hickory, shellbark, Carya laciniosa",H,S,0.62
+04142P,Pignut Hickory,"Hickory, pignut, Carya glabra",H,M,0.66
+04243A,American Holly,"Holly, American, Ilex opaca ",H,S,0.5
+04344H,Honeylocust,"Honeylocust, Gleditsia triacanthos",H,F,0.6
+04445E,Eastern Hophornbeam,"Hophornbeam, eastern, Ostrya virginiana",H,S,0.63
+04546C,Common Horsechestnut,"Horsechestnut, common, Aesculus",H,F,0.5
+04647K,Kentucky coffeetree,"Kentucky coffeetree, Gymnocladus dioicus",C,F,0.53
+04748L,Little-Leaf Linden,"Linden, little-leaf, Tilia cordata",H,F,0.42
+04849B,Black Locust,"Locust, black, Robinia pseudoacacia",H,F,0.67
+04950L,London plane tree Platanus_X_acerifolia,London plane tree Platanus_X_acerifolia,H,F,0.5
+05051S,Southern Magnolia,"Magnolia, southern, Magnolia grandifolia",H,M,0.42
+05152B,Bigleaf Maple," Maple, bigleaf, Acer macrophyllum",H,S,0.44
+05253N,Norway Maple,"Maple, Norway, Acer platanoides",H,M,0.52
+05354R,Red Maple,"Maple, red, Acer rubrum",H,M,0.49
+05455S,Silver Maple,"Maple, silver, Acer saccharinum",H,M,0.44
+05556S,Sugar Maple,"Maple, sugar, Acer saccharum",H,S,0.56
+05657R,Red Mulberry," Mulberry, red, Morus rubra",H,F,0.52
+05758B,Black Oak,"Oak, black, Quercus velutina",H,M,0.56
+05859B,Blue Oak,"Oak, blue, Quercus douglasii",H,M,0.7
+05960B,Bur Oak,"Oak, bur, Quercus macrocarpa",H,S,0.58
+06061C,California Black Oak," Oak, California black, Quercus kelloggii",H,S,0.51
+06162C,California White Oak,"Oak, California White, Quercus lobata",H,M,0.55
+06263C,Canyon Live Oak,"Oak, canyon live, Quercus chrysolepsis",H,S,0.7
+06364C,Chestnut Oak,"Oak, chestnut, Quercus prinus",H,S,0.7
+06465C,Chinkapin Oak,"Oak, Chinkapin, Quercus muehlenbergii",H,M,0.7
+06566L,Laurel Oak,"Oak, Laurel, Quercus laurifolia",H,F,0.63
+06667L,Live Oak,"Oak, live, Quercus virginiana",H,F,0.8
+06768N,Northern Red Oak,"Oak, northern red, Quercus rubra",H,F,0.56
+06869O,Overcup Oak,"Oak, overcup , Quercus lyrata",H,S,0.57
+06970P,Pin Oak,"Oak, pin, Quercus palustris",H,F,0.58
+07071S,Scarlet Oak,"Oak, scarlet, Quercus coccinea",H,F,0.62
+07172S,Swamp White Oak,"Oak, swamp white, Quercus bicolor",H,M,0.66
+07273W,Water Oak,"Oak, water, Quercus nigra",H,M,0.6
+07374W,White Oak,"Oak, white, Quercus alba",H,S,0.62
+07475W,Willow Oak,"Oak, willow, Quercus phellos",H,M,0.56
+07576P,Pecan,"Pecan, Carya illinoensis",H,S,0.7
+07677E,European Black Pine,"Pine, European black, Pinus nigra",C,S,0.43
+07778J,Jack Pine,"Pine, jack, Pinus banksiana",C,F,0.4
+07879L,Loblolly Pine,"Pine, loblolly, Pinus taeda",C,F,0.47
+07980L,Longleaf Pine,"Pine, longleaf, Pinus palustris",C,F,0.54
+08081P,Ponderosa Pine," Pine, ponderosa, Pinus ponderosa",C,F,0.38
+08182R,Red Pine,"Pine, red, Pinus resinosa",C,F,0.41
+08283S,Scotch Pine,"Pine, Scotch, Pinus sylvestris",C,S,0.42
+08384S,Shortleaf Pine,"Pine, shortleaf, Pinus echinata",C,F,0.47
+08485S,Slash Pine,"Pine, slash, Pinus elliottii",C,F,0.54
+08586V,Virginia Pine,"Pine, Virginia, Pinus virginiana",C,M,0.45
+08687W,White Eastern Pine,"Pine, white eastern, Pinus strobus",C,F,0.34
+08788Y,Yellow Poplar,"Poplar, yellow, Liriodendron tulipifera",H,F,0.38
+08889E,Eastern Redbud,"Redbud, eastern, Cercis canadensis",H,M,0.59
+08990S,Sassafras,"Sassafras, Sassafras albidum",H,M,0.48
+09091B,Black Spruce,"Spruce, black, Picea mariana",C,S,0.38
+09192B,Blue Spruce," Spruce, blue, Picea pungens",C,M,0.36
+09293N,Norway Spruce,"Spruce, Norway, Picea abies",C,M,0.37
+09394R,Red Spruce,"Spruce, red, Picea rubens",C,S,0.37
+09495W,White Spruce,"Spruce, white, Picea glauca",C,M,0.33
+09596S,Sugarberry,"Sugarberry, Celtis laevigata hippocastanum",H,F,0.5
+09697S,Sweetgum,"Sweetgum, Liquidambar styraciflua",H,F,0.46
+09798S,Sycamore,"Sycamore, Platanus occidentalis",H,F,0.45
+09899T,Tamarack,"Tamarack, Larix laricina",C,F,0.49
+99100B,Black Walnut,"Walnut, black, Juglans nigra",H,F,0.51
+100101B,Black Willow,"Willow, black, Salix nigra",H,F,0.36

@@ -12,7 +12,7 @@
   grid-template-areas:
     "nav nav"
     "intro intro"
-    "report report"
+    "report map"
     "footer footer";
   grid-template-columns: 1fr 3fr;
   gap: 5px;
@@ -32,6 +32,10 @@
 }
 .grid-container div#report {
     grid-area: report;
+}
+.grid-container div#map {
+  grid-area: map;
+  background-color: none;
 }
 /*---NAV BAR---*/
 .nav-container ul {
@@ -75,15 +79,17 @@
 }
 /*---REPORT---*/
 #report {
-   width: 820px;
-   margin: 20px auto;
-   padding: 0 0 30px 65px;
+   width: 100%;
+   height: 100%;
+   margin-top: 20px;
+   padding: 0 0;
    background-color: #0f3f27;
 }
 
 #report fieldset {
    background-color: #0f3f27;
-   border: #0f3f27; 
+   border: #0f3f27;
+   width: 100%;
 }
 
 #report .leftLabel {
@@ -97,29 +103,41 @@
 }
 #report .rightInput {
    margin: 15px 15px 0 0;
-   width: 500px;
+   width: 300px;
    height: 35px;
-   padding: 0 20px;
+   padding: 0;
    text-align: left;
 }
 
 #report fieldset legend {
    text-align: left;
-   background-color: #bcccc4;
 }
 
 #report input[type=submit], #report input[type=reset] {
-   width: 180px;
-   height: 52px;
-   margin: 25px 130px 25px auto;
+   width: 100px;
+   height: 30px;
+   margin: 25px 130px 20px auto;
    float: right;
+}
+/*---MAP---*/
+#map { 
+  margin-top: 20px;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  background-color: none;
+}
+.leaflet-marker-icon {
+  background-color: transparent !important;
 }
 /*---FOOTER---*/
 .footer {
-  position: fixed;
+  position: static;
   width: 100%;
+  margin-top: 10px;
   left: 0;
   bottom: 0;
+  z-index: 10;
 }
 .footer > a, img {
   height: 30px;

@@ -4,9 +4,9 @@ $username = "root";
 $password = "";
 $dbname = "tree_inventory";
 
-$con = mysqli_connect($hostname, $username, $password, $dbname);
+$conn = mysqli_connect($hostname, $username, $password, $dbname);
 
-if (!$con) {
+if (!$conn) {
     die("Database connection error " . mysqli_connect_error());
 }
 

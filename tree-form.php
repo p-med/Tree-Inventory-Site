@@ -1,3 +1,10 @@
+<?php
+require_once("php/db.php");
+?>
+<?php
+$sql = "SELECT tree_id, common_name FROM tree_list ORDER BY common_name ASC";
+$result = $conn->query($sql);
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -5,6 +12,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles/tree-record.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+        integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+        crossorigin="" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+        integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+        crossorigin=""></script>
     <title>Frame</title>
 </head>
 
@@ -13,8 +26,8 @@
         <div class="nav-container">
             <ul>
                 <li><a href="index.html">Home</a></li>
-                <li><a class="active" href="tree-form.html">Tree Form</a></li>
-                <li><a href="tree-map.html">Tree Maps</a></li>
+                <li><a class="active" href="tree-form.php">Tree Form</a></li>
+                <li><a href="php/tree-map.php">Tree Map</a></li>
             </ul>
         </div>
         <div class="intro">
@@ -27,21 +40,30 @@
                     choose to input the circumference.</li>
                 <li><b>Height</b>: The estimated tree height in feets.</li>
                 <li><b>Age</b>: The estimated tree age.</li>
+                <li><b>Latitude and Longitude</b>: Click on the map to store the coordinates of your tree.</li>
             </ul>
         </div>
+        <div class="carbon-result">
+
+        </div>
         <div id="report">
-            <form action="insert_tree.php" method="post" id="insertForm" enctype="multipart/form-data">
+            <form action="php/insert_tree.php" method="post" id="insertForm" enctype="multipart/form-data">
                 <fieldset>
-                    <label for="types" class="leftLabel">Tree species: </label>
-                    <select name="types" id="types" class="rightInput">
-                        <option value="Adriatic">Adriatic</option>
-                        <option value="BlackMisison">Black Misison</option>
-                        <option value="BrownTurkey">Brown Turkey</option>
-                        <option value="Calimyrna">Calimyrna</option>
-                        <option value="Kadota">Kadota</option>
-                        <option value="Others">Others</option>
+                    <label for="tree_id" class="leftLabel">Tree species: </label>
+                    <select name="tree_id" id="tree_id" class="rightInput">
+                        <?php
+                        if ($result->num_rows > 0) {
+                            while ($row = $result->fetch_assoc()) {
+                                $value = $row['tree_id'];   // Value sent when option is selected
+                                $display_text = $row['common_name']; // Text displayed in the dropdown
+                                echo "<option value=\"{$value}\">{$display_text}</option>";
+                            }
+                        } else {
+                            echo "<option value=\"\">No options available</option>";
+                        }
+                        ?>
                     </select>
-                    <label for="age" class="leftLabel">Tree age</label>
+                    <label for="age" class="leftLabel">Tree age:</label>
                     <input type="number" name="age" id="age" value="" class="rightInput"
                         placeholder="Enter the tree age">
                     <br>
@@ -56,11 +78,18 @@
                     <input type="number" name="height" id="height" class="rightInput"
                         placeholder="Enter the estimated tree height">
                     <br>
+                    <label for="lat" class="leftLabel">Latitude:</label>
+                    <input type="number" name="lat" id="lat" class="rightInput" step="any">
+                    <br>
+                    <label for="lon" class="leftLabel">Longitude:</label>
+                    <input type="number" name="lon" id="lon" class="rightInput" step="any">
+                    <br><br><br>
                     <input type="reset" id="cancel" value="Cancel">
                     <input type="submit" id="submit" value="Submit">
                 </fieldset>
             </form>
         </div>
+        <div id="map"></div>
         <div class="footer">
             <p>Paulo Medina</p>
             <a href="mailto:pcmedina.avalos@gmail.com" target="_blank"><img
@@ -72,6 +101,7 @@
                     src="https://img.icons8.com/?size=100&id=12599&format=png&color=ffffff" alt="" /></a>
         </div>
     </div>
+    <script src="scripts/map.js"></script>
 </body>
 
 </html>
