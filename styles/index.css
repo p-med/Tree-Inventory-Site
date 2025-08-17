@@ -11,18 +11,28 @@
   display: grid;
   grid-template-areas:
     "nav nav"
+    "hero-image hero-text"
     "footer footer";
   grid-template-columns: 1fr 3fr;
-  gap: 5px;
 }
 .grid-container > div.nav-container {
   grid-area: nav;
   background-color: #0f3f27;
 }
+.grid-container > div.hero-text {
+  grid-area: hero-text;
+}
+.grid-container > div.hero-image {
+  grid-area: hero-image;
+  background-color: #bcccc4;
+  padding: 0;
+  height: 100vh;
+}
 .grid-container div.footer {
   grid-area: footer;
   background-color: #0f3f27;
   height: 50px;
+  z-index: 2;
 }
 /*---NAV BAR---*/
 .nav-container ul {
@@ -48,6 +58,27 @@
 .nav-container li a:hover:not(.active) {
   background-color: #bcccc4;
   color: rgb(0, 0, 0); 
+}
+/*---HERO---*/
+.hero-text {
+  padding-top: 5%;
+  left: -40vh;
+  z-index: 1;
+}
+.hero-text h1 {
+  padding-bottom: 25px;
+  padding-top: 100px;
+  padding-left: 15px;
+}
+.hero-text p {
+  padding-top: 20px;
+  padding-left: 15px;
+}
+.hero-image > img {
+  height: 100%;
+  background-color: #fff;
+  object-fit: cover;
+  padding: 0;
 }
 /*---FOOTER---*/
 .footer {

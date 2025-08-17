@@ -11,6 +11,8 @@
   display: grid;
   grid-template-areas:
     "nav nav"
+    "intro intro"
+    "report report"
     "footer footer";
   grid-template-columns: 1fr 3fr;
   gap: 5px;
@@ -23,6 +25,13 @@
   grid-area: footer;
   background-color: #0f3f27;
   height: 50px;
+}
+.grid-container div.intro {
+    grid-area: intro;
+    padding: 15px;
+}
+.grid-container div#report {
+    grid-area: report;
 }
 /*---NAV BAR---*/
 .nav-container ul {
@@ -48,6 +57,62 @@
 .nav-container li a:hover:not(.active) {
   background-color: #bcccc4;
   color: rgb(0, 0, 0); 
+}
+/*---INTRO---*/
+.intro > h1 {
+    text-align: center;
+}
+.intro > p {
+    text-align: center;
+    font-size: larger;
+    padding: 15px;
+}
+
+.intro > ul {
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-bottom: 1%;
+}
+/*---REPORT---*/
+#report {
+   width: 820px;
+   margin: 20px auto;
+   padding: 0 0 30px 65px;
+   background-color: #0f3f27;
+}
+
+#report fieldset {
+   background-color: #0f3f27;
+   border: #0f3f27; 
+}
+
+#report .leftLabel {
+   float: left;
+   clear: left;
+   margin: 15px 15px 0 0;
+   width: 130px;
+   text-align: left;
+   background-color: #0f3f27;
+   color: #fff;
+}
+#report .rightInput {
+   margin: 15px 15px 0 0;
+   width: 500px;
+   height: 35px;
+   padding: 0 20px;
+   text-align: left;
+}
+
+#report fieldset legend {
+   text-align: left;
+   background-color: #bcccc4;
+}
+
+#report input[type=submit], #report input[type=reset] {
+   width: 180px;
+   height: 52px;
+   margin: 25px 130px 25px auto;
+   float: right;
 }
 /*---FOOTER---*/
 .footer {
