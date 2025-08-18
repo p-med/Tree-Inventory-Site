@@ -4,19 +4,13 @@ $ALL = array();
 try {
     $sql = "select * from tree_map order by date";
     $result = mysqli_query($conn, $sql);
-    while ($row = mysqli_fetch_array($result)) {
-        array_push($ALL, $row["common_name"]);
-        array_push($ALL, $row["date"]);
-        array_push($ALL, $row["dbh"]);
-        array_push($ALL, $row["height"]);
-        array_push($ALL, $row["density"]);
-        array_push($ALL, $row["type"]);
-        array_push($ALL, $row["carbon_storage"]);
-        array_push($ALL, $row["lat"]);
-        array_push($ALL, $row["lon"]);
+    while ($row = mysqli_fetch_array($result, MYSQLI_ASSOC)) {
+        // Push the entire associative array as an object
+        array_push($ALL, $row);
     }
-    $ALLj = json_encode($ALL);
-    echo $ALLj;
+    header('Content-Type: application/json');
+    echo json_encode($ALL);
 } catch (Exception $e) {
     echo $e->getMessage();
 }
+?>

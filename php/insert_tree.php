@@ -15,9 +15,9 @@ require_once("db.php");
     <div class="grid-container">
         <div class="nav-container">
             <ul>
-                <li><a class="active" href="index.html">Home</a></li>
-                <li><a href="../tree-form.php">Tree Form</a></li>
-                <li><a href="../tree-map.php">Tree Map</a></li>
+                <li><a href="index.html">Home</a></li>
+                <li><a class="active" href="tree-form.php">Tree Form</a></li>
+                <li><a href="tree-map.php">Tree Map</a></li>
             </ul>
         </div>
         <div class="content">
