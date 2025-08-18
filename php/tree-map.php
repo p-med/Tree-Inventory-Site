@@ -38,6 +38,10 @@ require_once("db.php");
             } catch (Exception $e) {
             }
             ?>
+            <p>Click here to download the data:</p>
+            <a href="download.php" download>
+                <button>Download</button>
+            </a>
         </div>
         <div id="map"></div>
         <div class="footer">

@@ -34,12 +34,12 @@ $result = $conn->query($sql);
             <h1>Record your tree</h1>
             <p>Input the record of your tree here. Below an explanation of each field:</p>
             <ul>
-                <li><b>Tree Species</b>: The tree name, you can input the common name or the scientific name.</li>
+                <li><b>Tree Species</b>: The tree name, the dropdown menu has a wide option of trees.</li>
                 <li><b>Date</b>: The day you are recording your tree.</li>
-                <li><b>DBH</b>: The diameter in inches at the breast height. If you don't have the diameter, you can
+                <li><b>DBH</b>: The diameter in centimeters at the breast height. If you don't have the diameter, you can
                     choose to input the circumference.</li>
-                <li><b>Height</b>: The estimated tree height in feets.</li>
-                <li><b>Age</b>: The estimated tree age.</li>
+                <li><b>Height</b>: The estimated tree height in meters.</li>
+                <li><b>Age</b>: The estimated tree age in years.</li>
                 <li><b>Latitude and Longitude</b>: Click on the map to store the coordinates of your tree.</li>
             </ul>
         </div>

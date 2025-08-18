@@ -31,3 +31,4 @@ wood_density_df = pd.DataFrame(
      'density': density,
     })
 
+wood_density_df.to_csv("./wood_density.csv")
